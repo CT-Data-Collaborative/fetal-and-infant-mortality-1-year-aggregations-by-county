@@ -177,72 +177,35 @@ complete_fm$Variable <- "Fetal Mortality"
 complete_fm <- complete_fm %>% 
   arrange(AGGREGATION, RR_YR, GEOG_name, Race, Type) 
 
-  
-number_subset <- complete_fm[complete_fm$Measure.Type == "Number" & complete_fm$Value <= 5 & complete_fm$Value >= 1,]
-percent_subset <- complete_fm
+complete_fm <- unique(complete_fm)
 
-percent_subset$Suppress <- NA
-percent_subset$Suppress[percent_subset$Measure.Type == "Number" & percent_subset$Value <= 5 & percent_subset$Value >= 1] <- 1
-  
+##Suppression: All number values btn 1,5 and all corresponding rates for those values
+#Find all the values that are 1 <= x <= 5, set to -9999
+complete_fm$Value[complete_fm$Measure.Type == "Number" & complete_fm$Value <= 5 & complete_fm$Value >=1] <- -9999
 
+#Isolate those values to a df, to find all scenarios (combinations of columns) that are suppressed
+complete_fm_9999 <- complete_fm[complete_fm$Value == -9999,]
 
+complete_fm_9999 <- complete_fm_9999[complete.cases(complete_fm_9999),]
 
+#Edit suppressed df so we can left join with original df 
+complete_fm_9999 <- select(complete_fm_9999, -c(Measure.Type, Value, Variable))
 
-# selectedRows <- (complete_fm$AGGREGATION %in% number_subset$AGGREGATION & 
-#                    complete_fm$RR_YR %in% number_subset$RR_YR &
-#                    complete_fm$GEOG_name %in% number_subset$GEOG_name &
-#                    complete_fm$Race %in% number_subset$Race &
-#                    complete_fm$Type %in% number_subset$Type)
-# 
-# 
-# percent_subset <- complete_fm[complete_fm$AGGREGATION %in% number_subset$AGGREGATION,]
-# percent_subset <- complete_fm[complete_fm$AGGREGATION %in% number_subset$AGGREGATION,]
+#Left join rows with -9999 & MT=Number back with original df, so we can find corresponding MT=Rate when number is btn 1,5
+all_9999 <- merge(complete_fm_9999, complete_fm, by = c("AGGREGATION", "RR_YR", "GEOG_name", "Race", "Type"), all.x=T)
+all_9999$Value[all_9999$Measure.Type == "Rate"] <- -9999
 
+#Create anti_join table for -9999 (find all rows from original df that wouldnt have -9999)
+all_9999_join <- select(all_9999, -c(Measure.Type, Value, Variable)) 
 
-percent_subset <- percent_subset[percent_subset$Measure.Type == "Rate",]
+complete_fm_complete <- complete_fm %>% 
+  anti_join(all_9999_join)
 
-
-# re-code suppressions as -9999
-#tab02[tab02$Value==-01,]$Value <- -9999
-
-# Supress small values - anything between 1 and 5, inclusive
-tab02_4[
-  between(Value, 1, 5) & Measure.Type == "Number",
-  Value := -9999
-  ]
-
-#reorder columns
-setcolorder(
-  tab02_4,
-  c(
-    "RR_YR",
-    "GEOG_name",
-    "Race",
-    "Type",
-    "Measure.Type",
-    "Variable",
-    "Value",
-    "AGGREGATION"
-  )
-)
-datasetColumns <- c(
-  "Year",
-  "Town/County",
-  "Race",
-  "Type",
-  "Measure Type",
-  "Variable",
-  "Value",
-  "Aggregation"
-)
-
-# set column names
-setnames(tab02_4, datasetColumns)
+#combine all_9999 and complete_fm_complete
+final_fm <- rbind(all_9999, complete_fm_complete)
 
 # FIPS
 # first get one table of all town AND county fips - make sure to deduplicate CT value
-# towns <- fread(file.path(getOption("common_path"), "Geography", "town_fips.csv"))
-# counties <- fread(file.path(getOption("common_path"), "Geography", "county_fips.csv"))
 
 town_fips_dp_URL <- 'https://raw.githubusercontent.com/CT-Data-Collaborative/ct-town-list/master/datapackage.json'
 town_fips_dp <- datapkg_read(path = town_fips_dp_URL)
@@ -252,66 +215,59 @@ county_fips_dp_URL <- 'https://raw.githubusercontent.com/CT-Data-Collaborative/c
 county_fips_dp <- datapkg_read(path = county_fips_dp_URL)
 county_fips <- (county_fips_dp$data[[1]])
 
-
 setnames(town_fips, "Town", "Town/County")
 setnames(county_fips, "County", "Town/County")
 fips <- rbind(town_fips, county_fips)
-#remove(towns, counties)
-setDT(fips)
-setkey(fips, `Town/County`)
 fips <- unique(fips)
+names(final_fm)[names(final_fm) == "GEOG_name"] <- "Town/County"
+final_fm_fips <- merge(final_fm, fips, by = "Town/County", all.x=T)
 
-setkey(tab02_4, `Town/County`)
-tab02_4 <- fips[tab02_4]
-#remove(fips)
 
-# write whole dataset in one file for posterity
-
+final_fm_fips_arrange <- final_fm_fips %>% 
+  rename("Year" = "RR_YR", "Measure Type" = "Measure.Type") %>% 
+  select("AGGREGATION", "Town/County", "FIPS", "Year", "Race", "Type", "Measure Type", "Variable", "Value") %>% 
+  arrange(`AGGREGATION`, `Town/County`, Year, `Race`, `Type`, `Measure Type`)
 
 write.table(
-  tab02_4,
+  final_fm_fips_arrange,
   sep = ",",
   file.path(path_to_data, "all_years_FM.csv"),
   row.names = F
 )
 
+counties <- c("Connecticut", "Fairfield County", "Hartford County",
+              "Litchfield County", "Middlesex County", "New Haven County",
+              "New London County", "Tolland County", "Windham County")
+
 # write tables by agg level
 for (y in c(1,3,5)) {
   agg <- paste(y, "Year", sep = "-")
-  aggData <- raw["Aggregation" == agg, 1:8, with = F]
+  aggData <- final_fm_fips_arrange[final_fm_fips_arrange$AGGREGATION == agg,]
   
   # county data
-  county <- aggData[nchar(FIPS) <= 5,]
-  setnames(county, "Town/County", "County")
+  county <- aggData[aggData$`Town/County` %in% counties,]
+  names(county)[names(county) == "Town/County"] <- "County"
+  county <- select(county, -(AGGREGATION))
   write.table(
     county,
-    file.path(getwd(), "data", paste("deaths-", tolower(agg), "-county.csv", sep="")),
+    file.path(path_to_data, paste0("fetal_infant_mortality-", tolower(agg), "-county.csv")),
     sep = ",",
     row.names = F,
     na = "-9999"
   )
   
   # town data
-  town <- aggData[nchar(FIPS) > 5,]
-  setnames(town, "Town/County", "Town")
+  town <- aggData[!(aggData$`Town/County` %in% counties),]
+  names(town)[names(town) == "Town/County"] <- "Town"
+  town <- select(town, -(AGGREGATION))
+  
   write.table(
     town,
-    file.path(getwd(), "data", paste("deaths-", tolower(agg), "-town.csv", sep="")),
+    file.path(path_to_data, paste0("fetal_infant_mortality-", tolower(agg), "-town.csv")),
     sep = ",",
     row.names = F,
     na = "-9999"
   )
 }
-
-
-
-#########################################################################################################################################
-
-# calculate disaggregated percentages
-# fetal and infant deaths are calculated per 1000 births
-births2 <- merge(tab02[tab02$Type != "All" & tab02$Measure.Type=="Number" & tab02$Race != "All",], births, 
-                 by=c("AGGREGATION", "RR_YR", "GEOG_level", "GEOG_ID", "GEOG_name", "Race"))
-
-births2 <- merge(births, tab02, by = c("AGGREGATION", "RR_YR", "GEOG_level", "GEOG_ID", "GEOG_name", "Race"))
 
 

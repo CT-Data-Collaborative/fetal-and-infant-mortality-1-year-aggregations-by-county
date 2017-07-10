@@ -1,0 +1,2305 @@
+"County","FIPS","Year","Race","Type","Measure Type","Variable","Value"
+"Connecticut","09","1999","All","Fetal","Number","Fetal Mortality",234
+"Connecticut","09","1999","All","Fetal","Rate","Fetal Mortality",5.4
+"Connecticut","09","1999","All","Infant","Number","Fetal Mortality",264
+"Connecticut","09","1999","All","Infant","Rate","Fetal Mortality",6.1
+"Connecticut","09","1999","All","Neonatal","Number","Fetal Mortality",206
+"Connecticut","09","1999","All","Neonatal","Rate","Fetal Mortality",4.76
+"Connecticut","09","1999","All","Postneonatal","Number","Fetal Mortality",58
+"Connecticut","09","1999","All","Postneonatal","Rate","Fetal Mortality",1.34
+"Connecticut","09","1999","Black or African American","Fetal","Number","Fetal Mortality",46
+"Connecticut","09","1999","Black or African American","Infant","Number","Fetal Mortality",56
+"Connecticut","09","1999","Hispanic or Latino","Fetal","Number","Fetal Mortality",48
+"Connecticut","09","1999","Hispanic or Latino","Infant","Number","Fetal Mortality",49
+"Connecticut","09","1999","Other","Fetal","Number","Fetal Mortality",15
+"Connecticut","09","1999","Other","Infant","Number","Fetal Mortality",-9999
+"Connecticut","09","1999","White","Fetal","Number","Fetal Mortality",173
+"Connecticut","09","1999","White","Infant","Number","Fetal Mortality",201
+"Connecticut","09","2000","All","Fetal","Number","Fetal Mortality",225
+"Connecticut","09","2000","All","Fetal","Rate","Fetal Mortality",5.22
+"Connecticut","09","2000","All","Infant","Number","Fetal Mortality",283
+"Connecticut","09","2000","All","Infant","Rate","Fetal Mortality",6.57
+"Connecticut","09","2000","All","Neonatal","Number","Fetal Mortality",214
+"Connecticut","09","2000","All","Neonatal","Rate","Fetal Mortality",4.97
+"Connecticut","09","2000","All","Postneonatal","Number","Fetal Mortality",69
+"Connecticut","09","2000","All","Postneonatal","Rate","Fetal Mortality",1.6
+"Connecticut","09","2000","Black or African American","Fetal","Number","Fetal Mortality",57
+"Connecticut","09","2000","Black or African American","Infant","Number","Fetal Mortality",76
+"Connecticut","09","2000","Hispanic or Latino","Fetal","Number","Fetal Mortality",40
+"Connecticut","09","2000","Hispanic or Latino","Infant","Number","Fetal Mortality",60
+"Connecticut","09","2000","Other","Fetal","Number","Fetal Mortality",15
+"Connecticut","09","2000","Other","Infant","Number","Fetal Mortality",6
+"Connecticut","09","2000","White","Fetal","Number","Fetal Mortality",152
+"Connecticut","09","2000","White","Infant","Number","Fetal Mortality",198
+"Connecticut","09","2001","All","Fetal","Number","Fetal Mortality",200
+"Connecticut","09","2001","All","Fetal","Rate","Fetal Mortality",4.69
+"Connecticut","09","2001","All","Infant","Number","Fetal Mortality",259
+"Connecticut","09","2001","All","Infant","Rate","Fetal Mortality",6.07
+"Connecticut","09","2001","All","Neonatal","Number","Fetal Mortality",193
+"Connecticut","09","2001","All","Neonatal","Rate","Fetal Mortality",4.52
+"Connecticut","09","2001","All","Postneonatal","Number","Fetal Mortality",66
+"Connecticut","09","2001","All","Postneonatal","Rate","Fetal Mortality",1.55
+"Connecticut","09","2001","Black or African American","Fetal","Number","Fetal Mortality",46
+"Connecticut","09","2001","Black or African American","Infant","Number","Fetal Mortality",83
+"Connecticut","09","2001","Hispanic or Latino","Fetal","Number","Fetal Mortality",33
+"Connecticut","09","2001","Hispanic or Latino","Infant","Number","Fetal Mortality",43
+"Connecticut","09","2001","Other","Fetal","Number","Fetal Mortality",9
+"Connecticut","09","2001","Other","Infant","Number","Fetal Mortality",6
+"Connecticut","09","2001","White","Fetal","Number","Fetal Mortality",144
+"Connecticut","09","2001","White","Infant","Number","Fetal Mortality",160
+"Connecticut","09","2002","All","Fetal","Number","Fetal Mortality",228
+"Connecticut","09","2002","All","Fetal","Rate","Fetal Mortality",5.43
+"Connecticut","09","2002","All","Infant","Number","Fetal Mortality",274
+"Connecticut","09","2002","All","Infant","Rate","Fetal Mortality",6.52
+"Connecticut","09","2002","All","Neonatal","Number","Fetal Mortality",198
+"Connecticut","09","2002","All","Neonatal","Rate","Fetal Mortality",4.71
+"Connecticut","09","2002","All","Postneonatal","Number","Fetal Mortality",76
+"Connecticut","09","2002","All","Postneonatal","Rate","Fetal Mortality",1.81
+"Connecticut","09","2002","Black or African American","Fetal","Number","Fetal Mortality",57
+"Connecticut","09","2002","Black or African American","Infant","Number","Fetal Mortality",73
+"Connecticut","09","2002","Hispanic or Latino","Fetal","Number","Fetal Mortality",37
+"Connecticut","09","2002","Hispanic or Latino","Infant","Number","Fetal Mortality",48
+"Connecticut","09","2002","Other","Fetal","Number","Fetal Mortality",9
+"Connecticut","09","2002","Other","Infant","Number","Fetal Mortality",11
+"Connecticut","09","2002","White","Fetal","Number","Fetal Mortality",157
+"Connecticut","09","2002","White","Infant","Number","Fetal Mortality",178
+"Connecticut","09","2003","All","Fetal","Number","Fetal Mortality",251
+"Connecticut","09","2003","All","Fetal","Rate","Fetal Mortality",5.86
+"Connecticut","09","2003","All","Infant","Number","Fetal Mortality",230
+"Connecticut","09","2003","All","Infant","Rate","Fetal Mortality",5.37
+"Connecticut","09","2003","All","Neonatal","Number","Fetal Mortality",161
+"Connecticut","09","2003","All","Neonatal","Rate","Fetal Mortality",3.76
+"Connecticut","09","2003","All","Postneonatal","Number","Fetal Mortality",69
+"Connecticut","09","2003","All","Postneonatal","Rate","Fetal Mortality",1.61
+"Connecticut","09","2003","Black or African American","Fetal","Number","Fetal Mortality",63
+"Connecticut","09","2003","Black or African American","Infant","Number","Fetal Mortality",59
+"Connecticut","09","2003","Hispanic or Latino","Fetal","Number","Fetal Mortality",70
+"Connecticut","09","2003","Hispanic or Latino","Infant","Number","Fetal Mortality",39
+"Connecticut","09","2003","Other","Fetal","Number","Fetal Mortality",11
+"Connecticut","09","2003","Other","Infant","Number","Fetal Mortality",6
+"Connecticut","09","2003","White","Fetal","Number","Fetal Mortality",169
+"Connecticut","09","2003","White","Infant","Number","Fetal Mortality",159
+"Connecticut","09","2004","All","Fetal","Number","Fetal Mortality",250
+"Connecticut","09","2004","All","Fetal","Rate","Fetal Mortality",5.95
+"Connecticut","09","2004","All","Infant","Number","Fetal Mortality",237
+"Connecticut","09","2004","All","Infant","Rate","Fetal Mortality",5.64
+"Connecticut","09","2004","All","Neonatal","Number","Fetal Mortality",175
+"Connecticut","09","2004","All","Neonatal","Rate","Fetal Mortality",4.17
+"Connecticut","09","2004","All","Postneonatal","Number","Fetal Mortality",62
+"Connecticut","09","2004","All","Postneonatal","Rate","Fetal Mortality",1.48
+"Connecticut","09","2004","Black or African American","Fetal","Number","Fetal Mortality",57
+"Connecticut","09","2004","Black or African American","Infant","Number","Fetal Mortality",69
+"Connecticut","09","2004","Hispanic or Latino","Fetal","Number","Fetal Mortality",54
+"Connecticut","09","2004","Hispanic or Latino","Infant","Number","Fetal Mortality",61
+"Connecticut","09","2004","Other","Fetal","Number","Fetal Mortality",10
+"Connecticut","09","2004","Other","Infant","Number","Fetal Mortality",8
+"Connecticut","09","2004","White","Fetal","Number","Fetal Mortality",183
+"Connecticut","09","2004","White","Infant","Number","Fetal Mortality",154
+"Connecticut","09","2005","All","Fetal","Number","Fetal Mortality",243
+"Connecticut","09","2005","All","Fetal","Rate","Fetal Mortality",5.82
+"Connecticut","09","2005","All","Infant","Number","Fetal Mortality",237
+"Connecticut","09","2005","All","Infant","Rate","Fetal Mortality",5.68
+"Connecticut","09","2005","All","Neonatal","Number","Fetal Mortality",170
+"Connecticut","09","2005","All","Neonatal","Rate","Fetal Mortality",4.07
+"Connecticut","09","2005","All","Postneonatal","Number","Fetal Mortality",67
+"Connecticut","09","2005","All","Postneonatal","Rate","Fetal Mortality",1.61
+"Connecticut","09","2005","Black or African American","Fetal","Number","Fetal Mortality",56
+"Connecticut","09","2005","Black or African American","Infant","Number","Fetal Mortality",66
+"Connecticut","09","2005","Hispanic or Latino","Fetal","Number","Fetal Mortality",62
+"Connecticut","09","2005","Hispanic or Latino","Infant","Number","Fetal Mortality",60
+"Connecticut","09","2005","Other","Fetal","Number","Fetal Mortality",13
+"Connecticut","09","2005","Other","Infant","Number","Fetal Mortality",-9999
+"Connecticut","09","2005","White","Fetal","Number","Fetal Mortality",173
+"Connecticut","09","2005","White","Infant","Number","Fetal Mortality",141
+"Connecticut","09","2006","All","Fetal","Number","Fetal Mortality",232
+"Connecticut","09","2006","All","Fetal","Rate","Fetal Mortality",5.55
+"Connecticut","09","2006","All","Infant","Number","Fetal Mortality",257
+"Connecticut","09","2006","All","Infant","Rate","Fetal Mortality",6.15
+"Connecticut","09","2006","All","Neonatal","Number","Fetal Mortality",197
+"Connecticut","09","2006","All","Neonatal","Rate","Fetal Mortality",4.71
+"Connecticut","09","2006","All","Postneonatal","Number","Fetal Mortality",60
+"Connecticut","09","2006","All","Postneonatal","Rate","Fetal Mortality",1.44
+"Connecticut","09","2006","Black or African American","Fetal","Number","Fetal Mortality",66
+"Connecticut","09","2006","Black or African American","Infant","Number","Fetal Mortality",79
+"Connecticut","09","2006","Hispanic or Latino","Fetal","Number","Fetal Mortality",50
+"Connecticut","09","2006","Hispanic or Latino","Infant","Number","Fetal Mortality",61
+"Connecticut","09","2006","Other","Fetal","Number","Fetal Mortality",11
+"Connecticut","09","2006","Other","Infant","Number","Fetal Mortality",13
+"Connecticut","09","2006","White","Fetal","Number","Fetal Mortality",152
+"Connecticut","09","2006","White","Infant","Number","Fetal Mortality",147
+"Connecticut","09","2007","All","Fetal","Number","Fetal Mortality",210
+"Connecticut","09","2007","All","Fetal","Rate","Fetal Mortality",5.05
+"Connecticut","09","2007","All","Infant","Number","Fetal Mortality",275
+"Connecticut","09","2007","All","Infant","Rate","Fetal Mortality",6.61
+"Connecticut","09","2007","All","Neonatal","Number","Fetal Mortality",211
+"Connecticut","09","2007","All","Neonatal","Rate","Fetal Mortality",5.07
+"Connecticut","09","2007","All","Postneonatal","Number","Fetal Mortality",64
+"Connecticut","09","2007","All","Postneonatal","Rate","Fetal Mortality",1.54
+"Connecticut","09","2007","Black or African American","Fetal","Number","Fetal Mortality",54
+"Connecticut","09","2007","Black or African American","Infant","Number","Fetal Mortality",65
+"Connecticut","09","2007","Hispanic or Latino","Fetal","Number","Fetal Mortality",37
+"Connecticut","09","2007","Hispanic or Latino","Infant","Number","Fetal Mortality",56
+"Connecticut","09","2007","Other","Fetal","Number","Fetal Mortality",-9999
+"Connecticut","09","2007","Other","Infant","Number","Fetal Mortality",12
+"Connecticut","09","2007","White","Fetal","Number","Fetal Mortality",149
+"Connecticut","09","2007","White","Infant","Number","Fetal Mortality",180
+"Connecticut","09","2008","All","Fetal","Number","Fetal Mortality",225
+"Connecticut","09","2008","All","Fetal","Rate","Fetal Mortality",5.57
+"Connecticut","09","2008","All","Infant","Number","Fetal Mortality",240
+"Connecticut","09","2008","All","Infant","Rate","Fetal Mortality",5.94
+"Connecticut","09","2008","All","Neonatal","Number","Fetal Mortality",179
+"Connecticut","09","2008","All","Neonatal","Rate","Fetal Mortality",4.43
+"Connecticut","09","2008","All","Postneonatal","Number","Fetal Mortality",61
+"Connecticut","09","2008","All","Postneonatal","Rate","Fetal Mortality",1.51
+"Connecticut","09","2008","Black or African American","Fetal","Number","Fetal Mortality",62
+"Connecticut","09","2008","Black or African American","Infant","Number","Fetal Mortality",71
+"Connecticut","09","2008","Hispanic or Latino","Fetal","Number","Fetal Mortality",54
+"Connecticut","09","2008","Hispanic or Latino","Infant","Number","Fetal Mortality",58
+"Connecticut","09","2008","Other","Fetal","Number","Fetal Mortality",18
+"Connecticut","09","2008","Other","Infant","Number","Fetal Mortality",18
+"Connecticut","09","2008","White","Fetal","Number","Fetal Mortality",141
+"Connecticut","09","2008","White","Infant","Number","Fetal Mortality",140
+"Connecticut","09","2009","All","Fetal","Number","Fetal Mortality",188
+"Connecticut","09","2009","All","Fetal","Rate","Fetal Mortality",4.84
+"Connecticut","09","2009","All","Infant","Number","Fetal Mortality",216
+"Connecticut","09","2009","All","Infant","Rate","Fetal Mortality",5.56
+"Connecticut","09","2009","All","Neonatal","Number","Fetal Mortality",164
+"Connecticut","09","2009","All","Neonatal","Rate","Fetal Mortality",4.22
+"Connecticut","09","2009","All","Postneonatal","Number","Fetal Mortality",52
+"Connecticut","09","2009","All","Postneonatal","Rate","Fetal Mortality",1.34
+"Connecticut","09","2009","Black or African American","Fetal","Number","Fetal Mortality",44
+"Connecticut","09","2009","Black or African American","Infant","Number","Fetal Mortality",67
+"Connecticut","09","2009","Hispanic or Latino","Fetal","Number","Fetal Mortality",44
+"Connecticut","09","2009","Hispanic or Latino","Infant","Number","Fetal Mortality",61
+"Connecticut","09","2009","Other","Fetal","Number","Fetal Mortality",11
+"Connecticut","09","2009","Other","Infant","Number","Fetal Mortality",-9999
+"Connecticut","09","2009","White","Fetal","Number","Fetal Mortality",133
+"Connecticut","09","2009","White","Infant","Number","Fetal Mortality",139
+"Connecticut","09","2010","All","Fetal","Number","Fetal Mortality",197
+"Connecticut","09","2010","All","Fetal","Rate","Fetal Mortality",5.22
+"Connecticut","09","2010","All","Infant","Number","Fetal Mortality",196
+"Connecticut","09","2010","All","Infant","Rate","Fetal Mortality",5.2
+"Connecticut","09","2010","All","Neonatal","Number","Fetal Mortality",149
+"Connecticut","09","2010","All","Neonatal","Rate","Fetal Mortality",3.95
+"Connecticut","09","2010","All","Postneonatal","Number","Fetal Mortality",47
+"Connecticut","09","2010","All","Postneonatal","Rate","Fetal Mortality",1.25
+"Connecticut","09","2010","Black or African American","Fetal","Number","Fetal Mortality",46
+"Connecticut","09","2010","Black or African American","Infant","Number","Fetal Mortality",60
+"Connecticut","09","2010","Hispanic or Latino","Fetal","Number","Fetal Mortality",39
+"Connecticut","09","2010","Hispanic or Latino","Infant","Number","Fetal Mortality",62
+"Connecticut","09","2010","Other","Fetal","Number","Fetal Mortality",19
+"Connecticut","09","2010","Other","Infant","Number","Fetal Mortality",-9999
+"Connecticut","09","2010","White","Fetal","Number","Fetal Mortality",130
+"Connecticut","09","2010","White","Infant","Number","Fetal Mortality",127
+"Connecticut","09","2011","All","Fetal","Number","Fetal Mortality",209
+"Connecticut","09","2011","All","Fetal","Rate","Fetal Mortality",5.61
+"Connecticut","09","2011","All","Infant","Number","Fetal Mortality",194
+"Connecticut","09","2011","All","Infant","Rate","Fetal Mortality",5.2
+"Connecticut","09","2011","All","Neonatal","Number","Fetal Mortality",136
+"Connecticut","09","2011","All","Neonatal","Rate","Fetal Mortality",3.65
+"Connecticut","09","2011","All","Postneonatal","Number","Fetal Mortality",58
+"Connecticut","09","2011","All","Postneonatal","Rate","Fetal Mortality",1.56
+"Connecticut","09","2011","Black or African American","Fetal","Number","Fetal Mortality",61
+"Connecticut","09","2011","Black or African American","Infant","Number","Fetal Mortality",52
+"Connecticut","09","2011","Hispanic or Latino","Fetal","Number","Fetal Mortality",37
+"Connecticut","09","2011","Hispanic or Latino","Infant","Number","Fetal Mortality",50
+"Connecticut","09","2011","Other","Fetal","Number","Fetal Mortality",16
+"Connecticut","09","2011","Other","Infant","Number","Fetal Mortality",10
+"Connecticut","09","2011","White","Fetal","Number","Fetal Mortality",129
+"Connecticut","09","2011","White","Infant","Number","Fetal Mortality",117
+"Connecticut","09","2012","All","Fetal","Number","Fetal Mortality",183
+"Connecticut","09","2012","All","Fetal","Rate","Fetal Mortality",5.01
+"Connecticut","09","2012","All","Infant","Number","Fetal Mortality",192
+"Connecticut","09","2012","All","Infant","Rate","Fetal Mortality",5.26
+"Connecticut","09","2012","All","Neonatal","Number","Fetal Mortality",150
+"Connecticut","09","2012","All","Neonatal","Rate","Fetal Mortality",4.11
+"Connecticut","09","2012","All","Postneonatal","Number","Fetal Mortality",42
+"Connecticut","09","2012","All","Postneonatal","Rate","Fetal Mortality",1.15
+"Connecticut","09","2012","Black or African American","Fetal","Number","Fetal Mortality",43
+"Connecticut","09","2012","Black or African American","Infant","Number","Fetal Mortality",59
+"Connecticut","09","2012","Hispanic or Latino","Fetal","Number","Fetal Mortality",54
+"Connecticut","09","2012","Hispanic or Latino","Infant","Number","Fetal Mortality",57
+"Connecticut","09","2012","Other","Fetal","Number","Fetal Mortality",14
+"Connecticut","09","2012","Other","Infant","Number","Fetal Mortality",-9999
+"Connecticut","09","2012","White","Fetal","Number","Fetal Mortality",124
+"Connecticut","09","2012","White","Infant","Number","Fetal Mortality",113
+"Connecticut","09","2013","All","Fetal","Number","Fetal Mortality",134
+"Connecticut","09","2013","All","Fetal","Rate","Fetal Mortality",3.71
+"Connecticut","09","2013","All","Infant","Number","Fetal Mortality",169
+"Connecticut","09","2013","All","Infant","Rate","Fetal Mortality",4.68
+"Connecticut","09","2013","All","Neonatal","Number","Fetal Mortality",117
+"Connecticut","09","2013","All","Neonatal","Rate","Fetal Mortality",3.24
+"Connecticut","09","2013","All","Postneonatal","Number","Fetal Mortality",52
+"Connecticut","09","2013","All","Postneonatal","Rate","Fetal Mortality",1.44
+"Connecticut","09","2013","Black or African American","Fetal","Number","Fetal Mortality",30
+"Connecticut","09","2013","Black or African American","Infant","Number","Fetal Mortality",42
+"Connecticut","09","2013","Hispanic or Latino","Fetal","Number","Fetal Mortality",34
+"Connecticut","09","2013","Hispanic or Latino","Infant","Number","Fetal Mortality",50
+"Connecticut","09","2013","Other","Fetal","Number","Fetal Mortality",13
+"Connecticut","09","2013","Other","Infant","Number","Fetal Mortality",-9999
+"Connecticut","09","2013","White","Fetal","Number","Fetal Mortality",91
+"Connecticut","09","2013","White","Infant","Number","Fetal Mortality",113
+"Connecticut","09","2014","All","Fetal","Number","Fetal Mortality",142
+"Connecticut","09","2014","All","Fetal","Rate","Fetal Mortality",3.93
+"Connecticut","09","2014","All","Infant","Number","Fetal Mortality",182
+"Connecticut","09","2014","All","Infant","Rate","Fetal Mortality",5.04
+"Connecticut","09","2014","All","Neonatal","Number","Fetal Mortality",131
+"Connecticut","09","2014","All","Neonatal","Rate","Fetal Mortality",3.63
+"Connecticut","09","2014","All","Postneonatal","Number","Fetal Mortality",51
+"Connecticut","09","2014","All","Postneonatal","Rate","Fetal Mortality",1.41
+"Connecticut","09","2014","Black or African American","Fetal","Number","Fetal Mortality",30
+"Connecticut","09","2014","Black or African American","Infant","Number","Fetal Mortality",49
+"Connecticut","09","2014","Hispanic or Latino","Fetal","Number","Fetal Mortality",27
+"Connecticut","09","2014","Hispanic or Latino","Infant","Number","Fetal Mortality",63
+"Connecticut","09","2014","Other","Fetal","Number","Fetal Mortality",9
+"Connecticut","09","2014","Other","Infant","Number","Fetal Mortality",7
+"Connecticut","09","2014","White","Fetal","Number","Fetal Mortality",101
+"Connecticut","09","2014","White","Infant","Number","Fetal Mortality",118
+"Fairfield County","09001","1999","All","Fetal","Number","Fetal Mortality",60
+"Fairfield County","09001","1999","All","Fetal","Rate","Fetal Mortality",4.78
+"Fairfield County","09001","1999","All","Infant","Number","Fetal Mortality",63
+"Fairfield County","09001","1999","All","Infant","Rate","Fetal Mortality",5.02
+"Fairfield County","09001","1999","All","Neonatal","Number","Fetal Mortality",45
+"Fairfield County","09001","1999","All","Neonatal","Rate","Fetal Mortality",3.59
+"Fairfield County","09001","1999","All","Postneonatal","Number","Fetal Mortality",18
+"Fairfield County","09001","1999","All","Postneonatal","Rate","Fetal Mortality",1.43
+"Fairfield County","09001","1999","Black or African American","Fetal","Number","Fetal Mortality",10
+"Fairfield County","09001","1999","Black or African American","Infant","Number","Fetal Mortality",19
+"Fairfield County","09001","1999","Hispanic or Latino","Fetal","Number","Fetal Mortality",13
+"Fairfield County","09001","1999","Hispanic or Latino","Infant","Number","Fetal Mortality",19
+"Fairfield County","09001","1999","Other","Fetal","Number","Fetal Mortality",7
+"Fairfield County","09001","1999","Other","Infant","Number","Fetal Mortality",-9999
+"Fairfield County","09001","1999","White","Fetal","Number","Fetal Mortality",43
+"Fairfield County","09001","1999","White","Infant","Number","Fetal Mortality",41
+"Fairfield County","09001","2000","All","Fetal","Number","Fetal Mortality",72
+"Fairfield County","09001","2000","All","Fetal","Rate","Fetal Mortality",5.78
+"Fairfield County","09001","2000","All","Infant","Number","Fetal Mortality",55
+"Fairfield County","09001","2000","All","Infant","Rate","Fetal Mortality",4.41
+"Fairfield County","09001","2000","All","Neonatal","Number","Fetal Mortality",40
+"Fairfield County","09001","2000","All","Neonatal","Rate","Fetal Mortality",3.21
+"Fairfield County","09001","2000","All","Postneonatal","Number","Fetal Mortality",15
+"Fairfield County","09001","2000","All","Postneonatal","Rate","Fetal Mortality",1.2
+"Fairfield County","09001","2000","Black or African American","Fetal","Number","Fetal Mortality",12
+"Fairfield County","09001","2000","Black or African American","Infant","Number","Fetal Mortality",19
+"Fairfield County","09001","2000","Hispanic or Latino","Fetal","Number","Fetal Mortality",17
+"Fairfield County","09001","2000","Hispanic or Latino","Infant","Number","Fetal Mortality",14
+"Fairfield County","09001","2000","Other","Fetal","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2000","Other","Infant","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2000","White","Fetal","Number","Fetal Mortality",56
+"Fairfield County","09001","2000","White","Infant","Number","Fetal Mortality",32
+"Fairfield County","09001","2001","All","Fetal","Number","Fetal Mortality",53
+"Fairfield County","09001","2001","All","Fetal","Rate","Fetal Mortality",4.35
+"Fairfield County","09001","2001","All","Infant","Number","Fetal Mortality",63
+"Fairfield County","09001","2001","All","Infant","Rate","Fetal Mortality",5.17
+"Fairfield County","09001","2001","All","Neonatal","Number","Fetal Mortality",48
+"Fairfield County","09001","2001","All","Neonatal","Rate","Fetal Mortality",3.94
+"Fairfield County","09001","2001","All","Postneonatal","Number","Fetal Mortality",15
+"Fairfield County","09001","2001","All","Postneonatal","Rate","Fetal Mortality",1.23
+"Fairfield County","09001","2001","Black or African American","Fetal","Number","Fetal Mortality",11
+"Fairfield County","09001","2001","Black or African American","Infant","Number","Fetal Mortality",21
+"Fairfield County","09001","2001","Hispanic or Latino","Fetal","Number","Fetal Mortality",11
+"Fairfield County","09001","2001","Hispanic or Latino","Infant","Number","Fetal Mortality",10
+"Fairfield County","09001","2001","Other","Fetal","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2001","Other","Infant","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2001","White","Fetal","Number","Fetal Mortality",39
+"Fairfield County","09001","2001","White","Infant","Number","Fetal Mortality",32
+"Fairfield County","09001","2002","All","Fetal","Number","Fetal Mortality",70
+"Fairfield County","09001","2002","All","Fetal","Rate","Fetal Mortality",5.87
+"Fairfield County","09001","2002","All","Infant","Number","Fetal Mortality",84
+"Fairfield County","09001","2002","All","Infant","Rate","Fetal Mortality",7.04
+"Fairfield County","09001","2002","All","Neonatal","Number","Fetal Mortality",61
+"Fairfield County","09001","2002","All","Neonatal","Rate","Fetal Mortality",5.11
+"Fairfield County","09001","2002","All","Postneonatal","Number","Fetal Mortality",23
+"Fairfield County","09001","2002","All","Postneonatal","Rate","Fetal Mortality",1.93
+"Fairfield County","09001","2002","Black or African American","Fetal","Number","Fetal Mortality",19
+"Fairfield County","09001","2002","Black or African American","Infant","Number","Fetal Mortality",21
+"Fairfield County","09001","2002","Hispanic or Latino","Fetal","Number","Fetal Mortality",15
+"Fairfield County","09001","2002","Hispanic or Latino","Infant","Number","Fetal Mortality",17
+"Fairfield County","09001","2002","Other","Fetal","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2002","Other","Infant","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2002","White","Fetal","Number","Fetal Mortality",45
+"Fairfield County","09001","2002","White","Infant","Number","Fetal Mortality",51
+"Fairfield County","09001","2003","All","Fetal","Number","Fetal Mortality",77
+"Fairfield County","09001","2003","All","Fetal","Rate","Fetal Mortality",6.32
+"Fairfield County","09001","2003","All","Infant","Number","Fetal Mortality",51
+"Fairfield County","09001","2003","All","Infant","Rate","Fetal Mortality",4.19
+"Fairfield County","09001","2003","All","Neonatal","Number","Fetal Mortality",33
+"Fairfield County","09001","2003","All","Neonatal","Rate","Fetal Mortality",2.71
+"Fairfield County","09001","2003","All","Postneonatal","Number","Fetal Mortality",18
+"Fairfield County","09001","2003","All","Postneonatal","Rate","Fetal Mortality",1.48
+"Fairfield County","09001","2003","Black or African American","Fetal","Number","Fetal Mortality",25
+"Fairfield County","09001","2003","Black or African American","Infant","Number","Fetal Mortality",17
+"Fairfield County","09001","2003","Hispanic or Latino","Fetal","Number","Fetal Mortality",21
+"Fairfield County","09001","2003","Hispanic or Latino","Infant","Number","Fetal Mortality",7
+"Fairfield County","09001","2003","Other","Fetal","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2003","Other","Infant","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2003","White","Fetal","Number","Fetal Mortality",47
+"Fairfield County","09001","2003","White","Infant","Number","Fetal Mortality",30
+"Fairfield County","09001","2004","All","Fetal","Number","Fetal Mortality",65
+"Fairfield County","09001","2004","All","Fetal","Rate","Fetal Mortality",5.53
+"Fairfield County","09001","2004","All","Infant","Number","Fetal Mortality",38
+"Fairfield County","09001","2004","All","Infant","Rate","Fetal Mortality",3.23
+"Fairfield County","09001","2004","All","Neonatal","Number","Fetal Mortality",26
+"Fairfield County","09001","2004","All","Neonatal","Rate","Fetal Mortality",2.21
+"Fairfield County","09001","2004","All","Postneonatal","Number","Fetal Mortality",12
+"Fairfield County","09001","2004","All","Postneonatal","Rate","Fetal Mortality",1.02
+"Fairfield County","09001","2004","Black or African American","Fetal","Number","Fetal Mortality",19
+"Fairfield County","09001","2004","Black or African American","Infant","Number","Fetal Mortality",13
+"Fairfield County","09001","2004","Hispanic or Latino","Fetal","Number","Fetal Mortality",14
+"Fairfield County","09001","2004","Hispanic or Latino","Infant","Number","Fetal Mortality",11
+"Fairfield County","09001","2004","Other","Fetal","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2004","Other","Infant","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2004","White","Fetal","Number","Fetal Mortality",42
+"Fairfield County","09001","2004","White","Infant","Number","Fetal Mortality",22
+"Fairfield County","09001","2005","All","Fetal","Number","Fetal Mortality",75
+"Fairfield County","09001","2005","All","Fetal","Rate","Fetal Mortality",6.41
+"Fairfield County","09001","2005","All","Infant","Number","Fetal Mortality",53
+"Fairfield County","09001","2005","All","Infant","Rate","Fetal Mortality",4.53
+"Fairfield County","09001","2005","All","Neonatal","Number","Fetal Mortality",38
+"Fairfield County","09001","2005","All","Neonatal","Rate","Fetal Mortality",3.25
+"Fairfield County","09001","2005","All","Postneonatal","Number","Fetal Mortality",15
+"Fairfield County","09001","2005","All","Postneonatal","Rate","Fetal Mortality",1.28
+"Fairfield County","09001","2005","Black or African American","Fetal","Number","Fetal Mortality",17
+"Fairfield County","09001","2005","Black or African American","Infant","Number","Fetal Mortality",14
+"Fairfield County","09001","2005","Hispanic or Latino","Fetal","Number","Fetal Mortality",24
+"Fairfield County","09001","2005","Hispanic or Latino","Infant","Number","Fetal Mortality",22
+"Fairfield County","09001","2005","Other","Fetal","Number","Fetal Mortality",8
+"Fairfield County","09001","2005","Other","Infant","Number","Fetal Mortality",0
+"Fairfield County","09001","2005","White","Fetal","Number","Fetal Mortality",50
+"Fairfield County","09001","2005","White","Infant","Number","Fetal Mortality",36
+"Fairfield County","09001","2006","All","Fetal","Number","Fetal Mortality",57
+"Fairfield County","09001","2006","All","Fetal","Rate","Fetal Mortality",4.82
+"Fairfield County","09001","2006","All","Infant","Number","Fetal Mortality",58
+"Fairfield County","09001","2006","All","Infant","Rate","Fetal Mortality",4.9
+"Fairfield County","09001","2006","All","Neonatal","Number","Fetal Mortality",48
+"Fairfield County","09001","2006","All","Neonatal","Rate","Fetal Mortality",4.06
+"Fairfield County","09001","2006","All","Postneonatal","Number","Fetal Mortality",10
+"Fairfield County","09001","2006","All","Postneonatal","Rate","Fetal Mortality",0.84
+"Fairfield County","09001","2006","Black or African American","Fetal","Number","Fetal Mortality",13
+"Fairfield County","09001","2006","Black or African American","Infant","Number","Fetal Mortality",16
+"Fairfield County","09001","2006","Hispanic or Latino","Fetal","Number","Fetal Mortality",16
+"Fairfield County","09001","2006","Hispanic or Latino","Infant","Number","Fetal Mortality",14
+"Fairfield County","09001","2006","Other","Fetal","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2006","Other","Infant","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2006","White","Fetal","Number","Fetal Mortality",39
+"Fairfield County","09001","2006","White","Infant","Number","Fetal Mortality",33
+"Fairfield County","09001","2007","All","Fetal","Number","Fetal Mortality",45
+"Fairfield County","09001","2007","All","Fetal","Rate","Fetal Mortality",3.95
+"Fairfield County","09001","2007","All","Infant","Number","Fetal Mortality",53
+"Fairfield County","09001","2007","All","Infant","Rate","Fetal Mortality",4.66
+"Fairfield County","09001","2007","All","Neonatal","Number","Fetal Mortality",36
+"Fairfield County","09001","2007","All","Neonatal","Rate","Fetal Mortality",3.16
+"Fairfield County","09001","2007","All","Postneonatal","Number","Fetal Mortality",17
+"Fairfield County","09001","2007","All","Postneonatal","Rate","Fetal Mortality",1.49
+"Fairfield County","09001","2007","Black or African American","Fetal","Number","Fetal Mortality",12
+"Fairfield County","09001","2007","Black or African American","Infant","Number","Fetal Mortality",15
+"Fairfield County","09001","2007","Hispanic or Latino","Fetal","Number","Fetal Mortality",8
+"Fairfield County","09001","2007","Hispanic or Latino","Infant","Number","Fetal Mortality",17
+"Fairfield County","09001","2007","Other","Fetal","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2007","Other","Infant","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2007","White","Fetal","Number","Fetal Mortality",30
+"Fairfield County","09001","2007","White","Infant","Number","Fetal Mortality",31
+"Fairfield County","09001","2008","All","Fetal","Number","Fetal Mortality",49
+"Fairfield County","09001","2008","All","Fetal","Rate","Fetal Mortality",4.41
+"Fairfield County","09001","2008","All","Infant","Number","Fetal Mortality",49
+"Fairfield County","09001","2008","All","Infant","Rate","Fetal Mortality",4.41
+"Fairfield County","09001","2008","All","Neonatal","Number","Fetal Mortality",39
+"Fairfield County","09001","2008","All","Neonatal","Rate","Fetal Mortality",3.51
+"Fairfield County","09001","2008","All","Postneonatal","Number","Fetal Mortality",10
+"Fairfield County","09001","2008","All","Postneonatal","Rate","Fetal Mortality",0.9
+"Fairfield County","09001","2008","Black or African American","Fetal","Number","Fetal Mortality",11
+"Fairfield County","09001","2008","Black or African American","Infant","Number","Fetal Mortality",17
+"Fairfield County","09001","2008","Hispanic or Latino","Fetal","Number","Fetal Mortality",20
+"Fairfield County","09001","2008","Hispanic or Latino","Infant","Number","Fetal Mortality",9
+"Fairfield County","09001","2008","Other","Fetal","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2008","Other","Infant","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2008","White","Fetal","Number","Fetal Mortality",34
+"Fairfield County","09001","2008","White","Infant","Number","Fetal Mortality",26
+"Fairfield County","09001","2009","All","Fetal","Number","Fetal Mortality",51
+"Fairfield County","09001","2009","All","Fetal","Rate","Fetal Mortality",4.69
+"Fairfield County","09001","2009","All","Infant","Number","Fetal Mortality",50
+"Fairfield County","09001","2009","All","Infant","Rate","Fetal Mortality",4.6
+"Fairfield County","09001","2009","All","Neonatal","Number","Fetal Mortality",38
+"Fairfield County","09001","2009","All","Neonatal","Rate","Fetal Mortality",3.5
+"Fairfield County","09001","2009","All","Postneonatal","Number","Fetal Mortality",12
+"Fairfield County","09001","2009","All","Postneonatal","Rate","Fetal Mortality",1.1
+"Fairfield County","09001","2009","Black or African American","Fetal","Number","Fetal Mortality",15
+"Fairfield County","09001","2009","Black or African American","Infant","Number","Fetal Mortality",18
+"Fairfield County","09001","2009","Hispanic or Latino","Fetal","Number","Fetal Mortality",15
+"Fairfield County","09001","2009","Hispanic or Latino","Infant","Number","Fetal Mortality",17
+"Fairfield County","09001","2009","Other","Fetal","Number","Fetal Mortality",6
+"Fairfield County","09001","2009","Other","Infant","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2009","White","Fetal","Number","Fetal Mortality",30
+"Fairfield County","09001","2009","White","Infant","Number","Fetal Mortality",30
+"Fairfield County","09001","2010","All","Fetal","Number","Fetal Mortality",67
+"Fairfield County","09001","2010","All","Fetal","Rate","Fetal Mortality",6.38
+"Fairfield County","09001","2010","All","Infant","Number","Fetal Mortality",50
+"Fairfield County","09001","2010","All","Infant","Rate","Fetal Mortality",4.76
+"Fairfield County","09001","2010","All","Neonatal","Number","Fetal Mortality",39
+"Fairfield County","09001","2010","All","Neonatal","Rate","Fetal Mortality",3.71
+"Fairfield County","09001","2010","All","Postneonatal","Number","Fetal Mortality",11
+"Fairfield County","09001","2010","All","Postneonatal","Rate","Fetal Mortality",1.05
+"Fairfield County","09001","2010","Black or African American","Fetal","Number","Fetal Mortality",19
+"Fairfield County","09001","2010","Black or African American","Infant","Number","Fetal Mortality",15
+"Fairfield County","09001","2010","Hispanic or Latino","Fetal","Number","Fetal Mortality",12
+"Fairfield County","09001","2010","Hispanic or Latino","Infant","Number","Fetal Mortality",21
+"Fairfield County","09001","2010","Other","Fetal","Number","Fetal Mortality",7
+"Fairfield County","09001","2010","Other","Infant","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2010","White","Fetal","Number","Fetal Mortality",41
+"Fairfield County","09001","2010","White","Infant","Number","Fetal Mortality",30
+"Fairfield County","09001","2011","All","Fetal","Number","Fetal Mortality",64
+"Fairfield County","09001","2011","All","Fetal","Rate","Fetal Mortality",6.2
+"Fairfield County","09001","2011","All","Infant","Number","Fetal Mortality",39
+"Fairfield County","09001","2011","All","Infant","Rate","Fetal Mortality",3.78
+"Fairfield County","09001","2011","All","Neonatal","Number","Fetal Mortality",27
+"Fairfield County","09001","2011","All","Neonatal","Rate","Fetal Mortality",2.62
+"Fairfield County","09001","2011","All","Postneonatal","Number","Fetal Mortality",12
+"Fairfield County","09001","2011","All","Postneonatal","Rate","Fetal Mortality",1.16
+"Fairfield County","09001","2011","Black or African American","Fetal","Number","Fetal Mortality",27
+"Fairfield County","09001","2011","Black or African American","Infant","Number","Fetal Mortality",12
+"Fairfield County","09001","2011","Hispanic or Latino","Fetal","Number","Fetal Mortality",8
+"Fairfield County","09001","2011","Hispanic or Latino","Infant","Number","Fetal Mortality",13
+"Fairfield County","09001","2011","Other","Fetal","Number","Fetal Mortality",6
+"Fairfield County","09001","2011","Other","Infant","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2011","White","Fetal","Number","Fetal Mortality",31
+"Fairfield County","09001","2011","White","Infant","Number","Fetal Mortality",24
+"Fairfield County","09001","2012","All","Fetal","Number","Fetal Mortality",46
+"Fairfield County","09001","2012","All","Fetal","Rate","Fetal Mortality",4.56
+"Fairfield County","09001","2012","All","Infant","Number","Fetal Mortality",39
+"Fairfield County","09001","2012","All","Infant","Rate","Fetal Mortality",3.86
+"Fairfield County","09001","2012","All","Neonatal","Number","Fetal Mortality",35
+"Fairfield County","09001","2012","All","Neonatal","Rate","Fetal Mortality",3.47
+"Fairfield County","09001","2012","All","Postneonatal","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2012","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Fairfield County","09001","2012","Black or African American","Fetal","Number","Fetal Mortality",9
+"Fairfield County","09001","2012","Black or African American","Infant","Number","Fetal Mortality",13
+"Fairfield County","09001","2012","Hispanic or Latino","Fetal","Number","Fetal Mortality",22
+"Fairfield County","09001","2012","Hispanic or Latino","Infant","Number","Fetal Mortality",18
+"Fairfield County","09001","2012","Other","Fetal","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2012","Other","Infant","Number","Fetal Mortality",0
+"Fairfield County","09001","2012","White","Fetal","Number","Fetal Mortality",34
+"Fairfield County","09001","2012","White","Infant","Number","Fetal Mortality",19
+"Fairfield County","09001","2013","All","Fetal","Number","Fetal Mortality",39
+"Fairfield County","09001","2013","All","Fetal","Rate","Fetal Mortality",3.88
+"Fairfield County","09001","2013","All","Infant","Number","Fetal Mortality",39
+"Fairfield County","09001","2013","All","Infant","Rate","Fetal Mortality",3.88
+"Fairfield County","09001","2013","All","Neonatal","Number","Fetal Mortality",26
+"Fairfield County","09001","2013","All","Neonatal","Rate","Fetal Mortality",2.59
+"Fairfield County","09001","2013","All","Postneonatal","Number","Fetal Mortality",13
+"Fairfield County","09001","2013","All","Postneonatal","Rate","Fetal Mortality",1.29
+"Fairfield County","09001","2013","Black or African American","Fetal","Number","Fetal Mortality",8
+"Fairfield County","09001","2013","Black or African American","Infant","Number","Fetal Mortality",13
+"Fairfield County","09001","2013","Hispanic or Latino","Fetal","Number","Fetal Mortality",13
+"Fairfield County","09001","2013","Hispanic or Latino","Infant","Number","Fetal Mortality",15
+"Fairfield County","09001","2013","Other","Fetal","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2013","Other","Infant","Number","Fetal Mortality",0
+"Fairfield County","09001","2013","White","Fetal","Number","Fetal Mortality",28
+"Fairfield County","09001","2013","White","Infant","Number","Fetal Mortality",23
+"Fairfield County","09001","2014","All","Fetal","Number","Fetal Mortality",35
+"Fairfield County","09001","2014","All","Fetal","Rate","Fetal Mortality",3.46
+"Fairfield County","09001","2014","All","Infant","Number","Fetal Mortality",40
+"Fairfield County","09001","2014","All","Infant","Rate","Fetal Mortality",3.96
+"Fairfield County","09001","2014","All","Neonatal","Number","Fetal Mortality",32
+"Fairfield County","09001","2014","All","Neonatal","Rate","Fetal Mortality",3.16
+"Fairfield County","09001","2014","All","Postneonatal","Number","Fetal Mortality",8
+"Fairfield County","09001","2014","All","Postneonatal","Rate","Fetal Mortality",0.79
+"Fairfield County","09001","2014","Black or African American","Fetal","Number","Fetal Mortality",8
+"Fairfield County","09001","2014","Black or African American","Infant","Number","Fetal Mortality",16
+"Fairfield County","09001","2014","Hispanic or Latino","Fetal","Number","Fetal Mortality",8
+"Fairfield County","09001","2014","Hispanic or Latino","Infant","Number","Fetal Mortality",17
+"Fairfield County","09001","2014","Other","Fetal","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2014","Other","Infant","Number","Fetal Mortality",-9999
+"Fairfield County","09001","2014","White","Fetal","Number","Fetal Mortality",23
+"Fairfield County","09001","2014","White","Infant","Number","Fetal Mortality",18
+"Hartford County","09003","1999","All","Fetal","Number","Fetal Mortality",44
+"Hartford County","09003","1999","All","Fetal","Rate","Fetal Mortality",4.17
+"Hartford County","09003","1999","All","Infant","Number","Fetal Mortality",78
+"Hartford County","09003","1999","All","Infant","Rate","Fetal Mortality",7.4
+"Hartford County","09003","1999","All","Neonatal","Number","Fetal Mortality",66
+"Hartford County","09003","1999","All","Neonatal","Rate","Fetal Mortality",6.26
+"Hartford County","09003","1999","All","Postneonatal","Number","Fetal Mortality",12
+"Hartford County","09003","1999","All","Postneonatal","Rate","Fetal Mortality",1.14
+"Hartford County","09003","1999","Black or African American","Fetal","Number","Fetal Mortality",9
+"Hartford County","09003","1999","Black or African American","Infant","Number","Fetal Mortality",16
+"Hartford County","09003","1999","Hispanic or Latino","Fetal","Number","Fetal Mortality",13
+"Hartford County","09003","1999","Hispanic or Latino","Infant","Number","Fetal Mortality",14
+"Hartford County","09003","1999","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","1999","Other","Infant","Number","Fetal Mortality",-9999
+"Hartford County","09003","1999","White","Fetal","Number","Fetal Mortality",33
+"Hartford County","09003","1999","White","Infant","Number","Fetal Mortality",60
+"Hartford County","09003","2000","All","Fetal","Number","Fetal Mortality",53
+"Hartford County","09003","2000","All","Fetal","Rate","Fetal Mortality",4.99
+"Hartford County","09003","2000","All","Infant","Number","Fetal Mortality",95
+"Hartford County","09003","2000","All","Infant","Rate","Fetal Mortality",8.95
+"Hartford County","09003","2000","All","Neonatal","Number","Fetal Mortality",80
+"Hartford County","09003","2000","All","Neonatal","Rate","Fetal Mortality",7.54
+"Hartford County","09003","2000","All","Postneonatal","Number","Fetal Mortality",15
+"Hartford County","09003","2000","All","Postneonatal","Rate","Fetal Mortality",1.41
+"Hartford County","09003","2000","Black or African American","Fetal","Number","Fetal Mortality",15
+"Hartford County","09003","2000","Black or African American","Infant","Number","Fetal Mortality",32
+"Hartford County","09003","2000","Hispanic or Latino","Fetal","Number","Fetal Mortality",10
+"Hartford County","09003","2000","Hispanic or Latino","Infant","Number","Fetal Mortality",24
+"Hartford County","09003","2000","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","2000","Other","Infant","Number","Fetal Mortality",-9999
+"Hartford County","09003","2000","White","Fetal","Number","Fetal Mortality",35
+"Hartford County","09003","2000","White","Infant","Number","Fetal Mortality",61
+"Hartford County","09003","2001","All","Fetal","Number","Fetal Mortality",63
+"Hartford County","09003","2001","All","Fetal","Rate","Fetal Mortality",5.91
+"Hartford County","09003","2001","All","Infant","Number","Fetal Mortality",71
+"Hartford County","09003","2001","All","Infant","Rate","Fetal Mortality",6.66
+"Hartford County","09003","2001","All","Neonatal","Number","Fetal Mortality",48
+"Hartford County","09003","2001","All","Neonatal","Rate","Fetal Mortality",4.5
+"Hartford County","09003","2001","All","Postneonatal","Number","Fetal Mortality",23
+"Hartford County","09003","2001","All","Postneonatal","Rate","Fetal Mortality",2.16
+"Hartford County","09003","2001","Black or African American","Fetal","Number","Fetal Mortality",18
+"Hartford County","09003","2001","Black or African American","Infant","Number","Fetal Mortality",32
+"Hartford County","09003","2001","Hispanic or Latino","Fetal","Number","Fetal Mortality",14
+"Hartford County","09003","2001","Hispanic or Latino","Infant","Number","Fetal Mortality",14
+"Hartford County","09003","2001","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","2001","Other","Infant","Number","Fetal Mortality",-9999
+"Hartford County","09003","2001","White","Fetal","Number","Fetal Mortality",42
+"Hartford County","09003","2001","White","Infant","Number","Fetal Mortality",37
+"Hartford County","09003","2002","All","Fetal","Number","Fetal Mortality",49
+"Hartford County","09003","2002","All","Fetal","Rate","Fetal Mortality",4.78
+"Hartford County","09003","2002","All","Infant","Number","Fetal Mortality",73
+"Hartford County","09003","2002","All","Infant","Rate","Fetal Mortality",7.13
+"Hartford County","09003","2002","All","Neonatal","Number","Fetal Mortality",57
+"Hartford County","09003","2002","All","Neonatal","Rate","Fetal Mortality",5.56
+"Hartford County","09003","2002","All","Postneonatal","Number","Fetal Mortality",16
+"Hartford County","09003","2002","All","Postneonatal","Rate","Fetal Mortality",1.56
+"Hartford County","09003","2002","Black or African American","Fetal","Number","Fetal Mortality",14
+"Hartford County","09003","2002","Black or African American","Infant","Number","Fetal Mortality",24
+"Hartford County","09003","2002","Hispanic or Latino","Fetal","Number","Fetal Mortality",10
+"Hartford County","09003","2002","Hispanic or Latino","Infant","Number","Fetal Mortality",16
+"Hartford County","09003","2002","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","2002","Other","Infant","Number","Fetal Mortality",-9999
+"Hartford County","09003","2002","White","Fetal","Number","Fetal Mortality",32
+"Hartford County","09003","2002","White","Infant","Number","Fetal Mortality",46
+"Hartford County","09003","2003","All","Fetal","Number","Fetal Mortality",57
+"Hartford County","09003","2003","All","Fetal","Rate","Fetal Mortality",5.35
+"Hartford County","09003","2003","All","Infant","Number","Fetal Mortality",54
+"Hartford County","09003","2003","All","Infant","Rate","Fetal Mortality",5.07
+"Hartford County","09003","2003","All","Neonatal","Number","Fetal Mortality",44
+"Hartford County","09003","2003","All","Neonatal","Rate","Fetal Mortality",4.13
+"Hartford County","09003","2003","All","Postneonatal","Number","Fetal Mortality",10
+"Hartford County","09003","2003","All","Postneonatal","Rate","Fetal Mortality",0.94
+"Hartford County","09003","2003","Black or African American","Fetal","Number","Fetal Mortality",17
+"Hartford County","09003","2003","Black or African American","Infant","Number","Fetal Mortality",17
+"Hartford County","09003","2003","Hispanic or Latino","Fetal","Number","Fetal Mortality",21
+"Hartford County","09003","2003","Hispanic or Latino","Infant","Number","Fetal Mortality",11
+"Hartford County","09003","2003","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","2003","Other","Infant","Number","Fetal Mortality",-9999
+"Hartford County","09003","2003","White","Fetal","Number","Fetal Mortality",39
+"Hartford County","09003","2003","White","Infant","Number","Fetal Mortality",34
+"Hartford County","09003","2004","All","Fetal","Number","Fetal Mortality",55
+"Hartford County","09003","2004","All","Fetal","Rate","Fetal Mortality",5.24
+"Hartford County","09003","2004","All","Infant","Number","Fetal Mortality",75
+"Hartford County","09003","2004","All","Infant","Rate","Fetal Mortality",7.14
+"Hartford County","09003","2004","All","Neonatal","Number","Fetal Mortality",56
+"Hartford County","09003","2004","All","Neonatal","Rate","Fetal Mortality",5.33
+"Hartford County","09003","2004","All","Postneonatal","Number","Fetal Mortality",19
+"Hartford County","09003","2004","All","Postneonatal","Rate","Fetal Mortality",1.81
+"Hartford County","09003","2004","Black or African American","Fetal","Number","Fetal Mortality",15
+"Hartford County","09003","2004","Black or African American","Infant","Number","Fetal Mortality",25
+"Hartford County","09003","2004","Hispanic or Latino","Fetal","Number","Fetal Mortality",15
+"Hartford County","09003","2004","Hispanic or Latino","Infant","Number","Fetal Mortality",18
+"Hartford County","09003","2004","Other","Fetal","Number","Fetal Mortality",0
+"Hartford County","09003","2004","Other","Infant","Number","Fetal Mortality",-9999
+"Hartford County","09003","2004","White","Fetal","Number","Fetal Mortality",40
+"Hartford County","09003","2004","White","Infant","Number","Fetal Mortality",45
+"Hartford County","09003","2005","All","Fetal","Number","Fetal Mortality",61
+"Hartford County","09003","2005","All","Fetal","Rate","Fetal Mortality",5.84
+"Hartford County","09003","2005","All","Infant","Number","Fetal Mortality",73
+"Hartford County","09003","2005","All","Infant","Rate","Fetal Mortality",6.99
+"Hartford County","09003","2005","All","Neonatal","Number","Fetal Mortality",56
+"Hartford County","09003","2005","All","Neonatal","Rate","Fetal Mortality",5.36
+"Hartford County","09003","2005","All","Postneonatal","Number","Fetal Mortality",17
+"Hartford County","09003","2005","All","Postneonatal","Rate","Fetal Mortality",1.63
+"Hartford County","09003","2005","Black or African American","Fetal","Number","Fetal Mortality",18
+"Hartford County","09003","2005","Black or African American","Infant","Number","Fetal Mortality",24
+"Hartford County","09003","2005","Hispanic or Latino","Fetal","Number","Fetal Mortality",13
+"Hartford County","09003","2005","Hispanic or Latino","Infant","Number","Fetal Mortality",21
+"Hartford County","09003","2005","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","2005","Other","Infant","Number","Fetal Mortality",-9999
+"Hartford County","09003","2005","White","Fetal","Number","Fetal Mortality",41
+"Hartford County","09003","2005","White","Infant","Number","Fetal Mortality",34
+"Hartford County","09003","2006","All","Fetal","Number","Fetal Mortality",50
+"Hartford County","09003","2006","All","Fetal","Rate","Fetal Mortality",4.79
+"Hartford County","09003","2006","All","Infant","Number","Fetal Mortality",75
+"Hartford County","09003","2006","All","Infant","Rate","Fetal Mortality",7.18
+"Hartford County","09003","2006","All","Neonatal","Number","Fetal Mortality",58
+"Hartford County","09003","2006","All","Neonatal","Rate","Fetal Mortality",5.55
+"Hartford County","09003","2006","All","Postneonatal","Number","Fetal Mortality",17
+"Hartford County","09003","2006","All","Postneonatal","Rate","Fetal Mortality",1.63
+"Hartford County","09003","2006","Black or African American","Fetal","Number","Fetal Mortality",20
+"Hartford County","09003","2006","Black or African American","Infant","Number","Fetal Mortality",29
+"Hartford County","09003","2006","Hispanic or Latino","Fetal","Number","Fetal Mortality",9
+"Hartford County","09003","2006","Hispanic or Latino","Infant","Number","Fetal Mortality",18
+"Hartford County","09003","2006","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","2006","Other","Infant","Number","Fetal Mortality",-9999
+"Hartford County","09003","2006","White","Fetal","Number","Fetal Mortality",29
+"Hartford County","09003","2006","White","Infant","Number","Fetal Mortality",35
+"Hartford County","09003","2007","All","Fetal","Number","Fetal Mortality",45
+"Hartford County","09003","2007","All","Fetal","Rate","Fetal Mortality",4.32
+"Hartford County","09003","2007","All","Infant","Number","Fetal Mortality",93
+"Hartford County","09003","2007","All","Infant","Rate","Fetal Mortality",8.92
+"Hartford County","09003","2007","All","Neonatal","Number","Fetal Mortality",81
+"Hartford County","09003","2007","All","Neonatal","Rate","Fetal Mortality",7.77
+"Hartford County","09003","2007","All","Postneonatal","Number","Fetal Mortality",12
+"Hartford County","09003","2007","All","Postneonatal","Rate","Fetal Mortality",1.15
+"Hartford County","09003","2007","Black or African American","Fetal","Number","Fetal Mortality",17
+"Hartford County","09003","2007","Black or African American","Infant","Number","Fetal Mortality",29
+"Hartford County","09003","2007","Hispanic or Latino","Fetal","Number","Fetal Mortality",10
+"Hartford County","09003","2007","Hispanic or Latino","Infant","Number","Fetal Mortality",20
+"Hartford County","09003","2007","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","2007","Other","Infant","Number","Fetal Mortality",-9999
+"Hartford County","09003","2007","White","Fetal","Number","Fetal Mortality",27
+"Hartford County","09003","2007","White","Infant","Number","Fetal Mortality",57
+"Hartford County","09003","2008","All","Fetal","Number","Fetal Mortality",58
+"Hartford County","09003","2008","All","Fetal","Rate","Fetal Mortality",5.61
+"Hartford County","09003","2008","All","Infant","Number","Fetal Mortality",54
+"Hartford County","09003","2008","All","Infant","Rate","Fetal Mortality",5.23
+"Hartford County","09003","2008","All","Neonatal","Number","Fetal Mortality",44
+"Hartford County","09003","2008","All","Neonatal","Rate","Fetal Mortality",4.26
+"Hartford County","09003","2008","All","Postneonatal","Number","Fetal Mortality",10
+"Hartford County","09003","2008","All","Postneonatal","Rate","Fetal Mortality",0.97
+"Hartford County","09003","2008","Black or African American","Fetal","Number","Fetal Mortality",22
+"Hartford County","09003","2008","Black or African American","Infant","Number","Fetal Mortality",21
+"Hartford County","09003","2008","Hispanic or Latino","Fetal","Number","Fetal Mortality",14
+"Hartford County","09003","2008","Hispanic or Latino","Infant","Number","Fetal Mortality",21
+"Hartford County","09003","2008","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","2008","Other","Infant","Number","Fetal Mortality",-9999
+"Hartford County","09003","2008","White","Fetal","Number","Fetal Mortality",33
+"Hartford County","09003","2008","White","Infant","Number","Fetal Mortality",28
+"Hartford County","09003","2009","All","Fetal","Number","Fetal Mortality",46
+"Hartford County","09003","2009","All","Fetal","Rate","Fetal Mortality",4.58
+"Hartford County","09003","2009","All","Infant","Number","Fetal Mortality",67
+"Hartford County","09003","2009","All","Infant","Rate","Fetal Mortality",6.66
+"Hartford County","09003","2009","All","Neonatal","Number","Fetal Mortality",53
+"Hartford County","09003","2009","All","Neonatal","Rate","Fetal Mortality",5.27
+"Hartford County","09003","2009","All","Postneonatal","Number","Fetal Mortality",14
+"Hartford County","09003","2009","All","Postneonatal","Rate","Fetal Mortality",1.39
+"Hartford County","09003","2009","Black or African American","Fetal","Number","Fetal Mortality",11
+"Hartford County","09003","2009","Black or African American","Infant","Number","Fetal Mortality",22
+"Hartford County","09003","2009","Hispanic or Latino","Fetal","Number","Fetal Mortality",12
+"Hartford County","09003","2009","Hispanic or Latino","Infant","Number","Fetal Mortality",17
+"Hartford County","09003","2009","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","2009","Other","Infant","Number","Fetal Mortality",0
+"Hartford County","09003","2009","White","Fetal","Number","Fetal Mortality",34
+"Hartford County","09003","2009","White","Infant","Number","Fetal Mortality",43
+"Hartford County","09003","2010","All","Fetal","Number","Fetal Mortality",41
+"Hartford County","09003","2010","All","Fetal","Rate","Fetal Mortality",4.21
+"Hartford County","09003","2010","All","Infant","Number","Fetal Mortality",56
+"Hartford County","09003","2010","All","Infant","Rate","Fetal Mortality",5.75
+"Hartford County","09003","2010","All","Neonatal","Number","Fetal Mortality",38
+"Hartford County","09003","2010","All","Neonatal","Rate","Fetal Mortality",3.9
+"Hartford County","09003","2010","All","Postneonatal","Number","Fetal Mortality",18
+"Hartford County","09003","2010","All","Postneonatal","Rate","Fetal Mortality",1.85
+"Hartford County","09003","2010","Black or African American","Fetal","Number","Fetal Mortality",11
+"Hartford County","09003","2010","Black or African American","Infant","Number","Fetal Mortality",21
+"Hartford County","09003","2010","Hispanic or Latino","Fetal","Number","Fetal Mortality",7
+"Hartford County","09003","2010","Hispanic or Latino","Infant","Number","Fetal Mortality",22
+"Hartford County","09003","2010","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","2010","Other","Infant","Number","Fetal Mortality",0
+"Hartford County","09003","2010","White","Fetal","Number","Fetal Mortality",24
+"Hartford County","09003","2010","White","Infant","Number","Fetal Mortality",34
+"Hartford County","09003","2011","All","Fetal","Number","Fetal Mortality",50
+"Hartford County","09003","2011","All","Fetal","Rate","Fetal Mortality",5.22
+"Hartford County","09003","2011","All","Infant","Number","Fetal Mortality",67
+"Hartford County","09003","2011","All","Infant","Rate","Fetal Mortality",6.99
+"Hartford County","09003","2011","All","Neonatal","Number","Fetal Mortality",45
+"Hartford County","09003","2011","All","Neonatal","Rate","Fetal Mortality",4.7
+"Hartford County","09003","2011","All","Postneonatal","Number","Fetal Mortality",22
+"Hartford County","09003","2011","All","Postneonatal","Rate","Fetal Mortality",2.3
+"Hartford County","09003","2011","Black or African American","Fetal","Number","Fetal Mortality",14
+"Hartford County","09003","2011","Black or African American","Infant","Number","Fetal Mortality",21
+"Hartford County","09003","2011","Hispanic or Latino","Fetal","Number","Fetal Mortality",14
+"Hartford County","09003","2011","Hispanic or Latino","Infant","Number","Fetal Mortality",16
+"Hartford County","09003","2011","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","2011","Other","Infant","Number","Fetal Mortality",-9999
+"Hartford County","09003","2011","White","Fetal","Number","Fetal Mortality",35
+"Hartford County","09003","2011","White","Infant","Number","Fetal Mortality",37
+"Hartford County","09003","2012","All","Fetal","Number","Fetal Mortality",47
+"Hartford County","09003","2012","All","Fetal","Rate","Fetal Mortality",4.96
+"Hartford County","09003","2012","All","Infant","Number","Fetal Mortality",67
+"Hartford County","09003","2012","All","Infant","Rate","Fetal Mortality",7.08
+"Hartford County","09003","2012","All","Neonatal","Number","Fetal Mortality",52
+"Hartford County","09003","2012","All","Neonatal","Rate","Fetal Mortality",5.49
+"Hartford County","09003","2012","All","Postneonatal","Number","Fetal Mortality",15
+"Hartford County","09003","2012","All","Postneonatal","Rate","Fetal Mortality",1.58
+"Hartford County","09003","2012","Black or African American","Fetal","Number","Fetal Mortality",17
+"Hartford County","09003","2012","Black or African American","Infant","Number","Fetal Mortality",26
+"Hartford County","09003","2012","Hispanic or Latino","Fetal","Number","Fetal Mortality",15
+"Hartford County","09003","2012","Hispanic or Latino","Infant","Number","Fetal Mortality",20
+"Hartford County","09003","2012","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","2012","Other","Infant","Number","Fetal Mortality",-9999
+"Hartford County","09003","2012","White","Fetal","Number","Fetal Mortality",29
+"Hartford County","09003","2012","White","Infant","Number","Fetal Mortality",38
+"Hartford County","09003","2013","All","Fetal","Number","Fetal Mortality",40
+"Hartford County","09003","2013","All","Fetal","Rate","Fetal Mortality",4.29
+"Hartford County","09003","2013","All","Infant","Number","Fetal Mortality",35
+"Hartford County","09003","2013","All","Infant","Rate","Fetal Mortality",3.76
+"Hartford County","09003","2013","All","Neonatal","Number","Fetal Mortality",24
+"Hartford County","09003","2013","All","Neonatal","Rate","Fetal Mortality",2.58
+"Hartford County","09003","2013","All","Postneonatal","Number","Fetal Mortality",11
+"Hartford County","09003","2013","All","Postneonatal","Rate","Fetal Mortality",1.18
+"Hartford County","09003","2013","Black or African American","Fetal","Number","Fetal Mortality",12
+"Hartford County","09003","2013","Black or African American","Infant","Number","Fetal Mortality",6
+"Hartford County","09003","2013","Hispanic or Latino","Fetal","Number","Fetal Mortality",9
+"Hartford County","09003","2013","Hispanic or Latino","Infant","Number","Fetal Mortality",11
+"Hartford County","09003","2013","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","2013","Other","Infant","Number","Fetal Mortality",-9999
+"Hartford County","09003","2013","White","Fetal","Number","Fetal Mortality",23
+"Hartford County","09003","2013","White","Infant","Number","Fetal Mortality",25
+"Hartford County","09003","2014","All","Fetal","Number","Fetal Mortality",38
+"Hartford County","09003","2014","All","Fetal","Rate","Fetal Mortality",4
+"Hartford County","09003","2014","All","Infant","Number","Fetal Mortality",64
+"Hartford County","09003","2014","All","Infant","Rate","Fetal Mortality",6.74
+"Hartford County","09003","2014","All","Neonatal","Number","Fetal Mortality",45
+"Hartford County","09003","2014","All","Neonatal","Rate","Fetal Mortality",4.74
+"Hartford County","09003","2014","All","Postneonatal","Number","Fetal Mortality",19
+"Hartford County","09003","2014","All","Postneonatal","Rate","Fetal Mortality",2
+"Hartford County","09003","2014","Black or African American","Fetal","Number","Fetal Mortality",9
+"Hartford County","09003","2014","Black or African American","Infant","Number","Fetal Mortality",20
+"Hartford County","09003","2014","Hispanic or Latino","Fetal","Number","Fetal Mortality",9
+"Hartford County","09003","2014","Hispanic or Latino","Infant","Number","Fetal Mortality",27
+"Hartford County","09003","2014","Other","Fetal","Number","Fetal Mortality",-9999
+"Hartford County","09003","2014","Other","Infant","Number","Fetal Mortality",-9999
+"Hartford County","09003","2014","White","Fetal","Number","Fetal Mortality",25
+"Hartford County","09003","2014","White","Infant","Number","Fetal Mortality",41
+"Litchfield County","09005","1999","All","Fetal","Number","Fetal Mortality",10
+"Litchfield County","09005","1999","All","Fetal","Rate","Fetal Mortality",4.92
+"Litchfield County","09005","1999","All","Infant","Number","Fetal Mortality",12
+"Litchfield County","09005","1999","All","Infant","Rate","Fetal Mortality",5.91
+"Litchfield County","09005","1999","All","Neonatal","Number","Fetal Mortality",8
+"Litchfield County","09005","1999","All","Neonatal","Rate","Fetal Mortality",3.94
+"Litchfield County","09005","1999","All","Postneonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","1999","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","1999","Black or African American","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","1999","Black or African American","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","1999","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","1999","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","1999","Other","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","1999","Other","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","1999","White","Fetal","Number","Fetal Mortality",10
+"Litchfield County","09005","1999","White","Infant","Number","Fetal Mortality",12
+"Litchfield County","09005","2000","All","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2000","All","Fetal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2000","All","Infant","Number","Fetal Mortality",8
+"Litchfield County","09005","2000","All","Infant","Rate","Fetal Mortality",3.93
+"Litchfield County","09005","2000","All","Neonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2000","All","Neonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2000","All","Postneonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2000","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2000","Black or African American","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2000","Black or African American","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2000","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2000","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2000","Other","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2000","Other","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2000","White","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2000","White","Infant","Number","Fetal Mortality",8
+"Litchfield County","09005","2001","All","Fetal","Number","Fetal Mortality",9
+"Litchfield County","09005","2001","All","Fetal","Rate","Fetal Mortality",4.59
+"Litchfield County","09005","2001","All","Infant","Number","Fetal Mortality",10
+"Litchfield County","09005","2001","All","Infant","Rate","Fetal Mortality",5.1
+"Litchfield County","09005","2001","All","Neonatal","Number","Fetal Mortality",8
+"Litchfield County","09005","2001","All","Neonatal","Rate","Fetal Mortality",4.08
+"Litchfield County","09005","2001","All","Postneonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2001","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2001","Black or African American","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2001","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2001","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2001","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2001","Other","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2001","Other","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2001","White","Fetal","Number","Fetal Mortality",9
+"Litchfield County","09005","2001","White","Infant","Number","Fetal Mortality",9
+"Litchfield County","09005","2002","All","Fetal","Number","Fetal Mortality",11
+"Litchfield County","09005","2002","All","Fetal","Rate","Fetal Mortality",5.88
+"Litchfield County","09005","2002","All","Infant","Number","Fetal Mortality",11
+"Litchfield County","09005","2002","All","Infant","Rate","Fetal Mortality",5.88
+"Litchfield County","09005","2002","All","Neonatal","Number","Fetal Mortality",8
+"Litchfield County","09005","2002","All","Neonatal","Rate","Fetal Mortality",4.28
+"Litchfield County","09005","2002","All","Postneonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2002","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2002","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2002","Black or African American","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2002","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2002","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2002","Other","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2002","Other","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2002","White","Fetal","Number","Fetal Mortality",8
+"Litchfield County","09005","2002","White","Infant","Number","Fetal Mortality",9
+"Litchfield County","09005","2003","All","Fetal","Number","Fetal Mortality",9
+"Litchfield County","09005","2003","All","Fetal","Rate","Fetal Mortality",4.7
+"Litchfield County","09005","2003","All","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2003","All","Infant","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2003","All","Neonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2003","All","Neonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2003","All","Postneonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2003","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2003","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2003","Black or African American","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2003","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2003","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2003","Other","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2003","Other","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2003","White","Fetal","Number","Fetal Mortality",6
+"Litchfield County","09005","2003","White","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2004","All","Fetal","Number","Fetal Mortality",9
+"Litchfield County","09005","2004","All","Fetal","Rate","Fetal Mortality",4.63
+"Litchfield County","09005","2004","All","Infant","Number","Fetal Mortality",7
+"Litchfield County","09005","2004","All","Infant","Rate","Fetal Mortality",3.6
+"Litchfield County","09005","2004","All","Neonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2004","All","Neonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2004","All","Postneonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2004","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2004","Black or African American","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2004","Black or African American","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2004","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2004","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2004","Other","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2004","Other","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2004","White","Fetal","Number","Fetal Mortality",9
+"Litchfield County","09005","2004","White","Infant","Number","Fetal Mortality",7
+"Litchfield County","09005","2005","All","Fetal","Number","Fetal Mortality",7
+"Litchfield County","09005","2005","All","Fetal","Rate","Fetal Mortality",3.81
+"Litchfield County","09005","2005","All","Infant","Number","Fetal Mortality",9
+"Litchfield County","09005","2005","All","Infant","Rate","Fetal Mortality",4.9
+"Litchfield County","09005","2005","All","Neonatal","Number","Fetal Mortality",7
+"Litchfield County","09005","2005","All","Neonatal","Rate","Fetal Mortality",3.81
+"Litchfield County","09005","2005","All","Postneonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2005","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2005","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2005","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2005","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2005","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2005","Other","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2005","Other","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2005","White","Fetal","Number","Fetal Mortality",6
+"Litchfield County","09005","2005","White","Infant","Number","Fetal Mortality",8
+"Litchfield County","09005","2006","All","Fetal","Number","Fetal Mortality",10
+"Litchfield County","09005","2006","All","Fetal","Rate","Fetal Mortality",5.41
+"Litchfield County","09005","2006","All","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2006","All","Infant","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2006","All","Neonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2006","All","Neonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2006","All","Postneonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2006","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2006","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2006","Black or African American","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2006","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2006","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2006","Other","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2006","Other","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2006","White","Fetal","Number","Fetal Mortality",8
+"Litchfield County","09005","2006","White","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2007","All","Fetal","Number","Fetal Mortality",18
+"Litchfield County","09005","2007","All","Fetal","Rate","Fetal Mortality",9.96
+"Litchfield County","09005","2007","All","Infant","Number","Fetal Mortality",8
+"Litchfield County","09005","2007","All","Infant","Rate","Fetal Mortality",4.43
+"Litchfield County","09005","2007","All","Neonatal","Number","Fetal Mortality",8
+"Litchfield County","09005","2007","All","Neonatal","Rate","Fetal Mortality",4.43
+"Litchfield County","09005","2007","All","Postneonatal","Number","Fetal Mortality",0
+"Litchfield County","09005","2007","All","Postneonatal","Rate","Fetal Mortality",0
+"Litchfield County","09005","2007","Black or African American","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2007","Black or African American","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2007","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2007","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2007","Other","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2007","Other","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2007","White","Fetal","Number","Fetal Mortality",18
+"Litchfield County","09005","2007","White","Infant","Number","Fetal Mortality",7
+"Litchfield County","09005","2008","All","Fetal","Number","Fetal Mortality",12
+"Litchfield County","09005","2008","All","Fetal","Rate","Fetal Mortality",6.93
+"Litchfield County","09005","2008","All","Infant","Number","Fetal Mortality",12
+"Litchfield County","09005","2008","All","Infant","Rate","Fetal Mortality",6.93
+"Litchfield County","09005","2008","All","Neonatal","Number","Fetal Mortality",10
+"Litchfield County","09005","2008","All","Neonatal","Rate","Fetal Mortality",5.77
+"Litchfield County","09005","2008","All","Postneonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2008","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2008","Black or African American","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2008","Black or African American","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2008","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2008","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2008","Other","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2008","Other","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2008","White","Fetal","Number","Fetal Mortality",11
+"Litchfield County","09005","2008","White","Infant","Number","Fetal Mortality",10
+"Litchfield County","09005","2009","All","Fetal","Number","Fetal Mortality",9
+"Litchfield County","09005","2009","All","Fetal","Rate","Fetal Mortality",5.76
+"Litchfield County","09005","2009","All","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2009","All","Infant","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2009","All","Neonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2009","All","Neonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2009","All","Postneonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2009","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2009","Black or African American","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2009","Black or African American","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2009","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2009","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2009","Other","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2009","Other","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2009","White","Fetal","Number","Fetal Mortality",8
+"Litchfield County","09005","2009","White","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2010","All","Fetal","Number","Fetal Mortality",6
+"Litchfield County","09005","2010","All","Fetal","Rate","Fetal Mortality",3.79
+"Litchfield County","09005","2010","All","Infant","Number","Fetal Mortality",6
+"Litchfield County","09005","2010","All","Infant","Rate","Fetal Mortality",3.79
+"Litchfield County","09005","2010","All","Neonatal","Number","Fetal Mortality",6
+"Litchfield County","09005","2010","All","Neonatal","Rate","Fetal Mortality",3.79
+"Litchfield County","09005","2010","All","Postneonatal","Number","Fetal Mortality",0
+"Litchfield County","09005","2010","All","Postneonatal","Rate","Fetal Mortality",0
+"Litchfield County","09005","2010","Black or African American","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2010","Black or African American","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2010","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2010","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2010","Other","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2010","Other","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2010","White","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2010","White","Infant","Number","Fetal Mortality",6
+"Litchfield County","09005","2011","All","Fetal","Number","Fetal Mortality",7
+"Litchfield County","09005","2011","All","Fetal","Rate","Fetal Mortality",4.62
+"Litchfield County","09005","2011","All","Infant","Number","Fetal Mortality",8
+"Litchfield County","09005","2011","All","Infant","Rate","Fetal Mortality",5.28
+"Litchfield County","09005","2011","All","Neonatal","Number","Fetal Mortality",6
+"Litchfield County","09005","2011","All","Neonatal","Rate","Fetal Mortality",3.96
+"Litchfield County","09005","2011","All","Postneonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2011","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2011","Black or African American","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2011","Black or African American","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2011","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2011","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2011","Other","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2011","Other","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2011","White","Fetal","Number","Fetal Mortality",7
+"Litchfield County","09005","2011","White","Infant","Number","Fetal Mortality",7
+"Litchfield County","09005","2012","All","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2012","All","Fetal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2012","All","Infant","Number","Fetal Mortality",14
+"Litchfield County","09005","2012","All","Infant","Rate","Fetal Mortality",9.73
+"Litchfield County","09005","2012","All","Neonatal","Number","Fetal Mortality",12
+"Litchfield County","09005","2012","All","Neonatal","Rate","Fetal Mortality",8.34
+"Litchfield County","09005","2012","All","Postneonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2012","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2012","Black or African American","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2012","Black or African American","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2012","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2012","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2012","Other","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2012","Other","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2012","White","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2012","White","Infant","Number","Fetal Mortality",14
+"Litchfield County","09005","2013","All","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2013","All","Fetal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2013","All","Infant","Number","Fetal Mortality",6
+"Litchfield County","09005","2013","All","Infant","Rate","Fetal Mortality",4.21
+"Litchfield County","09005","2013","All","Neonatal","Number","Fetal Mortality",6
+"Litchfield County","09005","2013","All","Neonatal","Rate","Fetal Mortality",4.21
+"Litchfield County","09005","2013","All","Postneonatal","Number","Fetal Mortality",0
+"Litchfield County","09005","2013","All","Postneonatal","Rate","Fetal Mortality",0
+"Litchfield County","09005","2013","Black or African American","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2013","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2013","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2013","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2013","Other","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2013","Other","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2013","White","Fetal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2013","White","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2014","All","Fetal","Number","Fetal Mortality",8
+"Litchfield County","09005","2014","All","Fetal","Rate","Fetal Mortality",5.7
+"Litchfield County","09005","2014","All","Infant","Number","Fetal Mortality",7
+"Litchfield County","09005","2014","All","Infant","Rate","Fetal Mortality",4.99
+"Litchfield County","09005","2014","All","Neonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2014","All","Neonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2014","All","Postneonatal","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2014","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Litchfield County","09005","2014","Black or African American","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2014","Black or African American","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2014","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2014","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Litchfield County","09005","2014","Other","Fetal","Number","Fetal Mortality",0
+"Litchfield County","09005","2014","Other","Infant","Number","Fetal Mortality",0
+"Litchfield County","09005","2014","White","Fetal","Number","Fetal Mortality",8
+"Litchfield County","09005","2014","White","Infant","Number","Fetal Mortality",7
+"Middlesex County","09007","1999","All","Fetal","Number","Fetal Mortality",17
+"Middlesex County","09007","1999","All","Fetal","Rate","Fetal Mortality",9.27
+"Middlesex County","09007","1999","All","Infant","Number","Fetal Mortality",8
+"Middlesex County","09007","1999","All","Infant","Rate","Fetal Mortality",4.36
+"Middlesex County","09007","1999","All","Neonatal","Number","Fetal Mortality",8
+"Middlesex County","09007","1999","All","Neonatal","Rate","Fetal Mortality",4.36
+"Middlesex County","09007","1999","All","Postneonatal","Number","Fetal Mortality",0
+"Middlesex County","09007","1999","All","Postneonatal","Rate","Fetal Mortality",0
+"Middlesex County","09007","1999","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","1999","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","1999","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","1999","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","1999","Other","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","1999","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","1999","White","Fetal","Number","Fetal Mortality",14
+"Middlesex County","09007","1999","White","Infant","Number","Fetal Mortality",7
+"Middlesex County","09007","2000","All","Fetal","Number","Fetal Mortality",7
+"Middlesex County","09007","2000","All","Fetal","Rate","Fetal Mortality",3.78
+"Middlesex County","09007","2000","All","Infant","Number","Fetal Mortality",16
+"Middlesex County","09007","2000","All","Infant","Rate","Fetal Mortality",8.64
+"Middlesex County","09007","2000","All","Neonatal","Number","Fetal Mortality",14
+"Middlesex County","09007","2000","All","Neonatal","Rate","Fetal Mortality",7.56
+"Middlesex County","09007","2000","All","Postneonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2000","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2000","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2000","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2000","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2000","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2000","Other","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2000","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2000","White","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2000","White","Infant","Number","Fetal Mortality",15
+"Middlesex County","09007","2001","All","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2001","All","Fetal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2001","All","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2001","All","Infant","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2001","All","Neonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2001","All","Neonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2001","All","Postneonatal","Number","Fetal Mortality",0
+"Middlesex County","09007","2001","All","Postneonatal","Rate","Fetal Mortality",0
+"Middlesex County","09007","2001","Black or African American","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2001","Black or African American","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2001","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2001","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2001","Other","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2001","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2001","White","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2001","White","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2002","All","Fetal","Number","Fetal Mortality",12
+"Middlesex County","09007","2002","All","Fetal","Rate","Fetal Mortality",6.34
+"Middlesex County","09007","2002","All","Infant","Number","Fetal Mortality",10
+"Middlesex County","09007","2002","All","Infant","Rate","Fetal Mortality",5.28
+"Middlesex County","09007","2002","All","Neonatal","Number","Fetal Mortality",6
+"Middlesex County","09007","2002","All","Neonatal","Rate","Fetal Mortality",3.17
+"Middlesex County","09007","2002","All","Postneonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2002","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2002","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2002","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2002","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2002","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2002","Other","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2002","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2002","White","Fetal","Number","Fetal Mortality",10
+"Middlesex County","09007","2002","White","Infant","Number","Fetal Mortality",8
+"Middlesex County","09007","2003","All","Fetal","Number","Fetal Mortality",14
+"Middlesex County","09007","2003","All","Fetal","Rate","Fetal Mortality",7.97
+"Middlesex County","09007","2003","All","Infant","Number","Fetal Mortality",9
+"Middlesex County","09007","2003","All","Infant","Rate","Fetal Mortality",5.13
+"Middlesex County","09007","2003","All","Neonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2003","All","Neonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2003","All","Postneonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2003","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2003","Black or African American","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2003","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2003","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2003","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2003","Other","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2003","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2003","White","Fetal","Number","Fetal Mortality",13
+"Middlesex County","09007","2003","White","Infant","Number","Fetal Mortality",7
+"Middlesex County","09007","2004","All","Fetal","Number","Fetal Mortality",10
+"Middlesex County","09007","2004","All","Fetal","Rate","Fetal Mortality",5.48
+"Middlesex County","09007","2004","All","Infant","Number","Fetal Mortality",10
+"Middlesex County","09007","2004","All","Infant","Rate","Fetal Mortality",5.48
+"Middlesex County","09007","2004","All","Neonatal","Number","Fetal Mortality",10
+"Middlesex County","09007","2004","All","Neonatal","Rate","Fetal Mortality",5.48
+"Middlesex County","09007","2004","All","Postneonatal","Number","Fetal Mortality",0
+"Middlesex County","09007","2004","All","Postneonatal","Rate","Fetal Mortality",0
+"Middlesex County","09007","2004","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2004","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2004","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2004","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2004","Other","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2004","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2004","White","Fetal","Number","Fetal Mortality",8
+"Middlesex County","09007","2004","White","Infant","Number","Fetal Mortality",8
+"Middlesex County","09007","2005","All","Fetal","Number","Fetal Mortality",14
+"Middlesex County","09007","2005","All","Fetal","Rate","Fetal Mortality",8.34
+"Middlesex County","09007","2005","All","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2005","All","Infant","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2005","All","Neonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2005","All","Neonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2005","All","Postneonatal","Number","Fetal Mortality",0
+"Middlesex County","09007","2005","All","Postneonatal","Rate","Fetal Mortality",0
+"Middlesex County","09007","2005","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2005","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2005","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2005","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2005","Other","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2005","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2005","White","Fetal","Number","Fetal Mortality",10
+"Middlesex County","09007","2005","White","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2006","All","Fetal","Number","Fetal Mortality",11
+"Middlesex County","09007","2006","All","Fetal","Rate","Fetal Mortality",6.52
+"Middlesex County","09007","2006","All","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2006","All","Infant","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2006","All","Neonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2006","All","Neonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2006","All","Postneonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2006","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2006","Black or African American","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2006","Black or African American","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2006","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2006","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2006","Other","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2006","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2006","White","Fetal","Number","Fetal Mortality",11
+"Middlesex County","09007","2006","White","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2007","All","Fetal","Number","Fetal Mortality",9
+"Middlesex County","09007","2007","All","Fetal","Rate","Fetal Mortality",5.26
+"Middlesex County","09007","2007","All","Infant","Number","Fetal Mortality",12
+"Middlesex County","09007","2007","All","Infant","Rate","Fetal Mortality",7.01
+"Middlesex County","09007","2007","All","Neonatal","Number","Fetal Mortality",9
+"Middlesex County","09007","2007","All","Neonatal","Rate","Fetal Mortality",5.26
+"Middlesex County","09007","2007","All","Postneonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2007","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2007","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2007","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2007","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2007","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2007","Other","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2007","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2007","White","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2007","White","Infant","Number","Fetal Mortality",10
+"Middlesex County","09007","2008","All","Fetal","Number","Fetal Mortality",9
+"Middlesex County","09007","2008","All","Fetal","Rate","Fetal Mortality",5.57
+"Middlesex County","09007","2008","All","Infant","Number","Fetal Mortality",7
+"Middlesex County","09007","2008","All","Infant","Rate","Fetal Mortality",4.33
+"Middlesex County","09007","2008","All","Neonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2008","All","Neonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2008","All","Postneonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2008","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2008","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2008","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2008","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2008","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2008","Other","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2008","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2008","White","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2008","White","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2009","All","Fetal","Number","Fetal Mortality",6
+"Middlesex County","09007","2009","All","Fetal","Rate","Fetal Mortality",3.86
+"Middlesex County","09007","2009","All","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2009","All","Infant","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2009","All","Neonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2009","All","Neonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2009","All","Postneonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2009","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2009","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2009","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2009","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2009","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2009","Other","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2009","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2009","White","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2009","White","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2010","All","Fetal","Number","Fetal Mortality",10
+"Middlesex County","09007","2010","All","Fetal","Rate","Fetal Mortality",6.69
+"Middlesex County","09007","2010","All","Infant","Number","Fetal Mortality",6
+"Middlesex County","09007","2010","All","Infant","Rate","Fetal Mortality",4.02
+"Middlesex County","09007","2010","All","Neonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2010","All","Neonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2010","All","Postneonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2010","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2010","Black or African American","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2010","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2010","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2010","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2010","Other","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2010","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2010","White","Fetal","Number","Fetal Mortality",9
+"Middlesex County","09007","2010","White","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2011","All","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2011","All","Fetal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2011","All","Infant","Number","Fetal Mortality",6
+"Middlesex County","09007","2011","All","Infant","Rate","Fetal Mortality",4.09
+"Middlesex County","09007","2011","All","Neonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2011","All","Neonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2011","All","Postneonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2011","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2011","Black or African American","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2011","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2011","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2011","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2011","Other","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2011","Other","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2011","White","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2011","White","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2012","All","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2012","All","Fetal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2012","All","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2012","All","Infant","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2012","All","Neonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2012","All","Neonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2012","All","Postneonatal","Number","Fetal Mortality",0
+"Middlesex County","09007","2012","All","Postneonatal","Rate","Fetal Mortality",0
+"Middlesex County","09007","2012","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2012","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2012","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2012","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2012","Other","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2012","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2012","White","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2012","White","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2013","All","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2013","All","Fetal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2013","All","Infant","Number","Fetal Mortality",6
+"Middlesex County","09007","2013","All","Infant","Rate","Fetal Mortality",4.36
+"Middlesex County","09007","2013","All","Neonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2013","All","Neonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2013","All","Postneonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2013","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2013","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2013","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2013","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2013","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2013","Other","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2013","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2013","White","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2013","White","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2014","All","Fetal","Number","Fetal Mortality",7
+"Middlesex County","09007","2014","All","Fetal","Rate","Fetal Mortality",5.08
+"Middlesex County","09007","2014","All","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2014","All","Infant","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2014","All","Neonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2014","All","Neonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2014","All","Postneonatal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2014","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Middlesex County","09007","2014","Black or African American","Fetal","Number","Fetal Mortality",0
+"Middlesex County","09007","2014","Black or African American","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2014","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2014","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2014","Other","Fetal","Number","Fetal Mortality",-9999
+"Middlesex County","09007","2014","Other","Infant","Number","Fetal Mortality",0
+"Middlesex County","09007","2014","White","Fetal","Number","Fetal Mortality",6
+"Middlesex County","09007","2014","White","Infant","Number","Fetal Mortality",-9999
+"New Haven County","09009","1999","All","Fetal","Number","Fetal Mortality",75
+"New Haven County","09009","1999","All","Fetal","Rate","Fetal Mortality",7.22
+"New Haven County","09009","1999","All","Infant","Number","Fetal Mortality",70
+"New Haven County","09009","1999","All","Infant","Rate","Fetal Mortality",6.74
+"New Haven County","09009","1999","All","Neonatal","Number","Fetal Mortality",53
+"New Haven County","09009","1999","All","Neonatal","Rate","Fetal Mortality",5.1
+"New Haven County","09009","1999","All","Postneonatal","Number","Fetal Mortality",17
+"New Haven County","09009","1999","All","Postneonatal","Rate","Fetal Mortality",1.64
+"New Haven County","09009","1999","Black or African American","Fetal","Number","Fetal Mortality",23
+"New Haven County","09009","1999","Black or African American","Infant","Number","Fetal Mortality",18
+"New Haven County","09009","1999","Hispanic or Latino","Fetal","Number","Fetal Mortality",17
+"New Haven County","09009","1999","Hispanic or Latino","Infant","Number","Fetal Mortality",13
+"New Haven County","09009","1999","Other","Fetal","Number","Fetal Mortality",-9999
+"New Haven County","09009","1999","Other","Infant","Number","Fetal Mortality",-9999
+"New Haven County","09009","1999","White","Fetal","Number","Fetal Mortality",47
+"New Haven County","09009","1999","White","Infant","Number","Fetal Mortality",51
+"New Haven County","09009","2000","All","Fetal","Number","Fetal Mortality",71
+"New Haven County","09009","2000","All","Fetal","Rate","Fetal Mortality",6.99
+"New Haven County","09009","2000","All","Infant","Number","Fetal Mortality",65
+"New Haven County","09009","2000","All","Infant","Rate","Fetal Mortality",6.4
+"New Haven County","09009","2000","All","Neonatal","Number","Fetal Mortality",44
+"New Haven County","09009","2000","All","Neonatal","Rate","Fetal Mortality",4.33
+"New Haven County","09009","2000","All","Postneonatal","Number","Fetal Mortality",21
+"New Haven County","09009","2000","All","Postneonatal","Rate","Fetal Mortality",2.07
+"New Haven County","09009","2000","Black or African American","Fetal","Number","Fetal Mortality",26
+"New Haven County","09009","2000","Black or African American","Infant","Number","Fetal Mortality",18
+"New Haven County","09009","2000","Hispanic or Latino","Fetal","Number","Fetal Mortality",12
+"New Haven County","09009","2000","Hispanic or Latino","Infant","Number","Fetal Mortality",17
+"New Haven County","09009","2000","Other","Fetal","Number","Fetal Mortality",-9999
+"New Haven County","09009","2000","Other","Infant","Number","Fetal Mortality",-9999
+"New Haven County","09009","2000","White","Fetal","Number","Fetal Mortality",40
+"New Haven County","09009","2000","White","Infant","Number","Fetal Mortality",45
+"New Haven County","09009","2001","All","Fetal","Number","Fetal Mortality",54
+"New Haven County","09009","2001","All","Fetal","Rate","Fetal Mortality",5.26
+"New Haven County","09009","2001","All","Infant","Number","Fetal Mortality",71
+"New Haven County","09009","2001","All","Infant","Rate","Fetal Mortality",6.92
+"New Haven County","09009","2001","All","Neonatal","Number","Fetal Mortality",56
+"New Haven County","09009","2001","All","Neonatal","Rate","Fetal Mortality",5.46
+"New Haven County","09009","2001","All","Postneonatal","Number","Fetal Mortality",15
+"New Haven County","09009","2001","All","Postneonatal","Rate","Fetal Mortality",1.46
+"New Haven County","09009","2001","Black or African American","Fetal","Number","Fetal Mortality",16
+"New Haven County","09009","2001","Black or African American","Infant","Number","Fetal Mortality",22
+"New Haven County","09009","2001","Hispanic or Latino","Fetal","Number","Fetal Mortality",6
+"New Haven County","09009","2001","Hispanic or Latino","Infant","Number","Fetal Mortality",17
+"New Haven County","09009","2001","Other","Fetal","Number","Fetal Mortality",-9999
+"New Haven County","09009","2001","Other","Infant","Number","Fetal Mortality",0
+"New Haven County","09009","2001","White","Fetal","Number","Fetal Mortality",34
+"New Haven County","09009","2001","White","Infant","Number","Fetal Mortality",48
+"New Haven County","09009","2002","All","Fetal","Number","Fetal Mortality",59
+"New Haven County","09009","2002","All","Fetal","Rate","Fetal Mortality",5.8
+"New Haven County","09009","2002","All","Infant","Number","Fetal Mortality",65
+"New Haven County","09009","2002","All","Infant","Rate","Fetal Mortality",6.39
+"New Haven County","09009","2002","All","Neonatal","Number","Fetal Mortality",41
+"New Haven County","09009","2002","All","Neonatal","Rate","Fetal Mortality",4.03
+"New Haven County","09009","2002","All","Postneonatal","Number","Fetal Mortality",24
+"New Haven County","09009","2002","All","Postneonatal","Rate","Fetal Mortality",2.36
+"New Haven County","09009","2002","Black or African American","Fetal","Number","Fetal Mortality",18
+"New Haven County","09009","2002","Black or African American","Infant","Number","Fetal Mortality",20
+"New Haven County","09009","2002","Hispanic or Latino","Fetal","Number","Fetal Mortality",8
+"New Haven County","09009","2002","Hispanic or Latino","Infant","Number","Fetal Mortality",12
+"New Haven County","09009","2002","Other","Fetal","Number","Fetal Mortality",-9999
+"New Haven County","09009","2002","Other","Infant","Number","Fetal Mortality",-9999
+"New Haven County","09009","2002","White","Fetal","Number","Fetal Mortality",39
+"New Haven County","09009","2002","White","Infant","Number","Fetal Mortality",40
+"New Haven County","09009","2003","All","Fetal","Number","Fetal Mortality",69
+"New Haven County","09009","2003","All","Fetal","Rate","Fetal Mortality",6.69
+"New Haven County","09009","2003","All","Infant","Number","Fetal Mortality",78
+"New Haven County","09009","2003","All","Infant","Rate","Fetal Mortality",7.56
+"New Haven County","09009","2003","All","Neonatal","Number","Fetal Mortality",56
+"New Haven County","09009","2003","All","Neonatal","Rate","Fetal Mortality",5.43
+"New Haven County","09009","2003","All","Postneonatal","Number","Fetal Mortality",22
+"New Haven County","09009","2003","All","Postneonatal","Rate","Fetal Mortality",2.13
+"New Haven County","09009","2003","Black or African American","Fetal","Number","Fetal Mortality",17
+"New Haven County","09009","2003","Black or African American","Infant","Number","Fetal Mortality",20
+"New Haven County","09009","2003","Hispanic or Latino","Fetal","Number","Fetal Mortality",22
+"New Haven County","09009","2003","Hispanic or Latino","Infant","Number","Fetal Mortality",17
+"New Haven County","09009","2003","Other","Fetal","Number","Fetal Mortality",-9999
+"New Haven County","09009","2003","Other","Infant","Number","Fetal Mortality",-9999
+"New Haven County","09009","2003","White","Fetal","Number","Fetal Mortality",45
+"New Haven County","09009","2003","White","Infant","Number","Fetal Mortality",54
+"New Haven County","09009","2004","All","Fetal","Number","Fetal Mortality",79
+"New Haven County","09009","2004","All","Fetal","Rate","Fetal Mortality",7.78
+"New Haven County","09009","2004","All","Infant","Number","Fetal Mortality",72
+"New Haven County","09009","2004","All","Infant","Rate","Fetal Mortality",7.09
+"New Haven County","09009","2004","All","Neonatal","Number","Fetal Mortality",54
+"New Haven County","09009","2004","All","Neonatal","Rate","Fetal Mortality",5.32
+"New Haven County","09009","2004","All","Postneonatal","Number","Fetal Mortality",18
+"New Haven County","09009","2004","All","Postneonatal","Rate","Fetal Mortality",1.77
+"New Haven County","09009","2004","Black or African American","Fetal","Number","Fetal Mortality",20
+"New Haven County","09009","2004","Black or African American","Infant","Number","Fetal Mortality",20
+"New Haven County","09009","2004","Hispanic or Latino","Fetal","Number","Fetal Mortality",18
+"New Haven County","09009","2004","Hispanic or Latino","Infant","Number","Fetal Mortality",25
+"New Haven County","09009","2004","Other","Fetal","Number","Fetal Mortality",-9999
+"New Haven County","09009","2004","Other","Infant","Number","Fetal Mortality",-9999
+"New Haven County","09009","2004","White","Fetal","Number","Fetal Mortality",55
+"New Haven County","09009","2004","White","Infant","Number","Fetal Mortality",48
+"New Haven County","09009","2005","All","Fetal","Number","Fetal Mortality",59
+"New Haven County","09009","2005","All","Fetal","Rate","Fetal Mortality",5.78
+"New Haven County","09009","2005","All","Infant","Number","Fetal Mortality",68
+"New Haven County","09009","2005","All","Infant","Rate","Fetal Mortality",6.66
+"New Haven County","09009","2005","All","Neonatal","Number","Fetal Mortality",44
+"New Haven County","09009","2005","All","Neonatal","Rate","Fetal Mortality",4.31
+"New Haven County","09009","2005","All","Postneonatal","Number","Fetal Mortality",24
+"New Haven County","09009","2005","All","Postneonatal","Rate","Fetal Mortality",2.35
+"New Haven County","09009","2005","Black or African American","Fetal","Number","Fetal Mortality",17
+"New Haven County","09009","2005","Black or African American","Infant","Number","Fetal Mortality",24
+"New Haven County","09009","2005","Hispanic or Latino","Fetal","Number","Fetal Mortality",17
+"New Haven County","09009","2005","Hispanic or Latino","Infant","Number","Fetal Mortality",13
+"New Haven County","09009","2005","Other","Fetal","Number","Fetal Mortality",-9999
+"New Haven County","09009","2005","Other","Infant","Number","Fetal Mortality",0
+"New Haven County","09009","2005","White","Fetal","Number","Fetal Mortality",40
+"New Haven County","09009","2005","White","Infant","Number","Fetal Mortality",38
+"New Haven County","09009","2006","All","Fetal","Number","Fetal Mortality",80
+"New Haven County","09009","2006","All","Fetal","Rate","Fetal Mortality",7.81
+"New Haven County","09009","2006","All","Infant","Number","Fetal Mortality",74
+"New Haven County","09009","2006","All","Infant","Rate","Fetal Mortality",7.22
+"New Haven County","09009","2006","All","Neonatal","Number","Fetal Mortality",54
+"New Haven County","09009","2006","All","Neonatal","Rate","Fetal Mortality",5.27
+"New Haven County","09009","2006","All","Postneonatal","Number","Fetal Mortality",20
+"New Haven County","09009","2006","All","Postneonatal","Rate","Fetal Mortality",1.95
+"New Haven County","09009","2006","Black or African American","Fetal","Number","Fetal Mortality",27
+"New Haven County","09009","2006","Black or African American","Infant","Number","Fetal Mortality",28
+"New Haven County","09009","2006","Hispanic or Latino","Fetal","Number","Fetal Mortality",18
+"New Haven County","09009","2006","Hispanic or Latino","Infant","Number","Fetal Mortality",21
+"New Haven County","09009","2006","Other","Fetal","Number","Fetal Mortality",-9999
+"New Haven County","09009","2006","Other","Infant","Number","Fetal Mortality",-9999
+"New Haven County","09009","2006","White","Fetal","Number","Fetal Mortality",47
+"New Haven County","09009","2006","White","Infant","Number","Fetal Mortality",38
+"New Haven County","09009","2007","All","Fetal","Number","Fetal Mortality",63
+"New Haven County","09009","2007","All","Fetal","Rate","Fetal Mortality",5.98
+"New Haven County","09009","2007","All","Infant","Number","Fetal Mortality",72
+"New Haven County","09009","2007","All","Infant","Rate","Fetal Mortality",6.84
+"New Haven County","09009","2007","All","Neonatal","Number","Fetal Mortality",53
+"New Haven County","09009","2007","All","Neonatal","Rate","Fetal Mortality",5.03
+"New Haven County","09009","2007","All","Postneonatal","Number","Fetal Mortality",19
+"New Haven County","09009","2007","All","Postneonatal","Rate","Fetal Mortality",1.8
+"New Haven County","09009","2007","Black or African American","Fetal","Number","Fetal Mortality",21
+"New Haven County","09009","2007","Black or African American","Infant","Number","Fetal Mortality",17
+"New Haven County","09009","2007","Hispanic or Latino","Fetal","Number","Fetal Mortality",12
+"New Haven County","09009","2007","Hispanic or Latino","Infant","Number","Fetal Mortality",16
+"New Haven County","09009","2007","Other","Fetal","Number","Fetal Mortality",-9999
+"New Haven County","09009","2007","Other","Infant","Number","Fetal Mortality",-9999
+"New Haven County","09009","2007","White","Fetal","Number","Fetal Mortality",41
+"New Haven County","09009","2007","White","Infant","Number","Fetal Mortality",46
+"New Haven County","09009","2008","All","Fetal","Number","Fetal Mortality",72
+"New Haven County","09009","2008","All","Fetal","Rate","Fetal Mortality",7.21
+"New Haven County","09009","2008","All","Infant","Number","Fetal Mortality",80
+"New Haven County","09009","2008","All","Infant","Rate","Fetal Mortality",8.01
+"New Haven County","09009","2008","All","Neonatal","Number","Fetal Mortality",55
+"New Haven County","09009","2008","All","Neonatal","Rate","Fetal Mortality",5.51
+"New Haven County","09009","2008","All","Postneonatal","Number","Fetal Mortality",25
+"New Haven County","09009","2008","All","Postneonatal","Rate","Fetal Mortality",2.5
+"New Haven County","09009","2008","Black or African American","Fetal","Number","Fetal Mortality",26
+"New Haven County","09009","2008","Black or African American","Infant","Number","Fetal Mortality",30
+"New Haven County","09009","2008","Hispanic or Latino","Fetal","Number","Fetal Mortality",16
+"New Haven County","09009","2008","Hispanic or Latino","Infant","Number","Fetal Mortality",24
+"New Haven County","09009","2008","Other","Fetal","Number","Fetal Mortality",6
+"New Haven County","09009","2008","Other","Infant","Number","Fetal Mortality",-9999
+"New Haven County","09009","2008","White","Fetal","Number","Fetal Mortality",37
+"New Haven County","09009","2008","White","Infant","Number","Fetal Mortality",42
+"New Haven County","09009","2009","All","Fetal","Number","Fetal Mortality",54
+"New Haven County","09009","2009","All","Fetal","Rate","Fetal Mortality",5.63
+"New Haven County","09009","2009","All","Infant","Number","Fetal Mortality",67
+"New Haven County","09009","2009","All","Infant","Rate","Fetal Mortality",6.99
+"New Haven County","09009","2009","All","Neonatal","Number","Fetal Mortality",49
+"New Haven County","09009","2009","All","Neonatal","Rate","Fetal Mortality",5.11
+"New Haven County","09009","2009","All","Postneonatal","Number","Fetal Mortality",18
+"New Haven County","09009","2009","All","Postneonatal","Rate","Fetal Mortality",1.88
+"New Haven County","09009","2009","Black or African American","Fetal","Number","Fetal Mortality",16
+"New Haven County","09009","2009","Black or African American","Infant","Number","Fetal Mortality",25
+"New Haven County","09009","2009","Hispanic or Latino","Fetal","Number","Fetal Mortality",12
+"New Haven County","09009","2009","Hispanic or Latino","Infant","Number","Fetal Mortality",23
+"New Haven County","09009","2009","Other","Fetal","Number","Fetal Mortality",0
+"New Haven County","09009","2009","Other","Infant","Number","Fetal Mortality",-9999
+"New Haven County","09009","2009","White","Fetal","Number","Fetal Mortality",38
+"New Haven County","09009","2009","White","Infant","Number","Fetal Mortality",40
+"New Haven County","09009","2010","All","Fetal","Number","Fetal Mortality",52
+"New Haven County","09009","2010","All","Fetal","Rate","Fetal Mortality",5.64
+"New Haven County","09009","2010","All","Infant","Number","Fetal Mortality",55
+"New Haven County","09009","2010","All","Infant","Rate","Fetal Mortality",5.96
+"New Haven County","09009","2010","All","Neonatal","Number","Fetal Mortality",42
+"New Haven County","09009","2010","All","Neonatal","Rate","Fetal Mortality",4.55
+"New Haven County","09009","2010","All","Postneonatal","Number","Fetal Mortality",13
+"New Haven County","09009","2010","All","Postneonatal","Rate","Fetal Mortality",1.41
+"New Haven County","09009","2010","Black or African American","Fetal","Number","Fetal Mortality",15
+"New Haven County","09009","2010","Black or African American","Infant","Number","Fetal Mortality",20
+"New Haven County","09009","2010","Hispanic or Latino","Fetal","Number","Fetal Mortality",12
+"New Haven County","09009","2010","Hispanic or Latino","Infant","Number","Fetal Mortality",15
+"New Haven County","09009","2010","Other","Fetal","Number","Fetal Mortality",-9999
+"New Haven County","09009","2010","Other","Infant","Number","Fetal Mortality",-9999
+"New Haven County","09009","2010","White","Fetal","Number","Fetal Mortality",32
+"New Haven County","09009","2010","White","Infant","Number","Fetal Mortality",32
+"New Haven County","09009","2011","All","Fetal","Number","Fetal Mortality",58
+"New Haven County","09009","2011","All","Fetal","Rate","Fetal Mortality",6.29
+"New Haven County","09009","2011","All","Infant","Number","Fetal Mortality",43
+"New Haven County","09009","2011","All","Infant","Rate","Fetal Mortality",4.66
+"New Haven County","09009","2011","All","Neonatal","Number","Fetal Mortality",30
+"New Haven County","09009","2011","All","Neonatal","Rate","Fetal Mortality",3.25
+"New Haven County","09009","2011","All","Postneonatal","Number","Fetal Mortality",13
+"New Haven County","09009","2011","All","Postneonatal","Rate","Fetal Mortality",1.41
+"New Haven County","09009","2011","Black or African American","Fetal","Number","Fetal Mortality",18
+"New Haven County","09009","2011","Black or African American","Infant","Number","Fetal Mortality",12
+"New Haven County","09009","2011","Hispanic or Latino","Fetal","Number","Fetal Mortality",13
+"New Haven County","09009","2011","Hispanic or Latino","Infant","Number","Fetal Mortality",15
+"New Haven County","09009","2011","Other","Fetal","Number","Fetal Mortality",7
+"New Haven County","09009","2011","Other","Infant","Number","Fetal Mortality",-9999
+"New Haven County","09009","2011","White","Fetal","Number","Fetal Mortality",30
+"New Haven County","09009","2011","White","Infant","Number","Fetal Mortality",24
+"New Haven County","09009","2012","All","Fetal","Number","Fetal Mortality",59
+"New Haven County","09009","2012","All","Fetal","Rate","Fetal Mortality",6.59
+"New Haven County","09009","2012","All","Infant","Number","Fetal Mortality",49
+"New Haven County","09009","2012","All","Infant","Rate","Fetal Mortality",5.48
+"New Haven County","09009","2012","All","Neonatal","Number","Fetal Mortality",35
+"New Haven County","09009","2012","All","Neonatal","Rate","Fetal Mortality",3.91
+"New Haven County","09009","2012","All","Postneonatal","Number","Fetal Mortality",14
+"New Haven County","09009","2012","All","Postneonatal","Rate","Fetal Mortality",1.56
+"New Haven County","09009","2012","Black or African American","Fetal","Number","Fetal Mortality",13
+"New Haven County","09009","2012","Black or African American","Infant","Number","Fetal Mortality",17
+"New Haven County","09009","2012","Hispanic or Latino","Fetal","Number","Fetal Mortality",13
+"New Haven County","09009","2012","Hispanic or Latino","Infant","Number","Fetal Mortality",16
+"New Haven County","09009","2012","Other","Fetal","Number","Fetal Mortality",7
+"New Haven County","09009","2012","Other","Infant","Number","Fetal Mortality",-9999
+"New Haven County","09009","2012","White","Fetal","Number","Fetal Mortality",38
+"New Haven County","09009","2012","White","Infant","Number","Fetal Mortality",25
+"New Haven County","09009","2013","All","Fetal","Number","Fetal Mortality",30
+"New Haven County","09009","2013","All","Fetal","Rate","Fetal Mortality",3.34
+"New Haven County","09009","2013","All","Infant","Number","Fetal Mortality",49
+"New Haven County","09009","2013","All","Infant","Rate","Fetal Mortality",5.46
+"New Haven County","09009","2013","All","Neonatal","Number","Fetal Mortality",36
+"New Haven County","09009","2013","All","Neonatal","Rate","Fetal Mortality",4.01
+"New Haven County","09009","2013","All","Postneonatal","Number","Fetal Mortality",13
+"New Haven County","09009","2013","All","Postneonatal","Rate","Fetal Mortality",1.45
+"New Haven County","09009","2013","Black or African American","Fetal","Number","Fetal Mortality",6
+"New Haven County","09009","2013","Black or African American","Infant","Number","Fetal Mortality",17
+"New Haven County","09009","2013","Hispanic or Latino","Fetal","Number","Fetal Mortality",8
+"New Haven County","09009","2013","Hispanic or Latino","Infant","Number","Fetal Mortality",16
+"New Haven County","09009","2013","Other","Fetal","Number","Fetal Mortality",-9999
+"New Haven County","09009","2013","Other","Infant","Number","Fetal Mortality",0
+"New Haven County","09009","2013","White","Fetal","Number","Fetal Mortality",21
+"New Haven County","09009","2013","White","Infant","Number","Fetal Mortality",31
+"New Haven County","09009","2014","All","Fetal","Number","Fetal Mortality",38
+"New Haven County","09009","2014","All","Fetal","Rate","Fetal Mortality",4.35
+"New Haven County","09009","2014","All","Infant","Number","Fetal Mortality",53
+"New Haven County","09009","2014","All","Infant","Rate","Fetal Mortality",6.06
+"New Haven County","09009","2014","All","Neonatal","Number","Fetal Mortality",34
+"New Haven County","09009","2014","All","Neonatal","Rate","Fetal Mortality",3.89
+"New Haven County","09009","2014","All","Postneonatal","Number","Fetal Mortality",19
+"New Haven County","09009","2014","All","Postneonatal","Rate","Fetal Mortality",2.17
+"New Haven County","09009","2014","Black or African American","Fetal","Number","Fetal Mortality",12
+"New Haven County","09009","2014","Black or African American","Infant","Number","Fetal Mortality",12
+"New Haven County","09009","2014","Hispanic or Latino","Fetal","Number","Fetal Mortality",6
+"New Haven County","09009","2014","Hispanic or Latino","Infant","Number","Fetal Mortality",16
+"New Haven County","09009","2014","Other","Fetal","Number","Fetal Mortality",-9999
+"New Haven County","09009","2014","Other","Infant","Number","Fetal Mortality",-9999
+"New Haven County","09009","2014","White","Fetal","Number","Fetal Mortality",24
+"New Haven County","09009","2014","White","Infant","Number","Fetal Mortality",37
+"New London County","09011","1999","All","Fetal","Number","Fetal Mortality",17
+"New London County","09011","1999","All","Fetal","Rate","Fetal Mortality",5.35
+"New London County","09011","1999","All","Infant","Number","Fetal Mortality",20
+"New London County","09011","1999","All","Infant","Rate","Fetal Mortality",6.3
+"New London County","09011","1999","All","Neonatal","Number","Fetal Mortality",15
+"New London County","09011","1999","All","Neonatal","Rate","Fetal Mortality",4.72
+"New London County","09011","1999","All","Postneonatal","Number","Fetal Mortality",-9999
+"New London County","09011","1999","All","Postneonatal","Rate","Fetal Mortality",-9999
+"New London County","09011","1999","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","1999","Black or African American","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","1999","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"New London County","09011","1999","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"New London County","09011","1999","Other","Fetal","Number","Fetal Mortality",0
+"New London County","09011","1999","Other","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","1999","White","Fetal","Number","Fetal Mortality",15
+"New London County","09011","1999","White","Infant","Number","Fetal Mortality",17
+"New London County","09011","2000","All","Fetal","Number","Fetal Mortality",10
+"New London County","09011","2000","All","Fetal","Rate","Fetal Mortality",3.23
+"New London County","09011","2000","All","Infant","Number","Fetal Mortality",22
+"New London County","09011","2000","All","Infant","Rate","Fetal Mortality",7.1
+"New London County","09011","2000","All","Neonatal","Number","Fetal Mortality",13
+"New London County","09011","2000","All","Neonatal","Rate","Fetal Mortality",4.19
+"New London County","09011","2000","All","Postneonatal","Number","Fetal Mortality",9
+"New London County","09011","2000","All","Postneonatal","Rate","Fetal Mortality",2.9
+"New London County","09011","2000","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2000","Black or African American","Infant","Number","Fetal Mortality",6
+"New London County","09011","2000","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"New London County","09011","2000","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2000","Other","Fetal","Number","Fetal Mortality",0
+"New London County","09011","2000","Other","Infant","Number","Fetal Mortality",0
+"New London County","09011","2000","White","Fetal","Number","Fetal Mortality",9
+"New London County","09011","2000","White","Infant","Number","Fetal Mortality",16
+"New London County","09011","2001","All","Fetal","Number","Fetal Mortality",11
+"New London County","09011","2001","All","Fetal","Rate","Fetal Mortality",3.63
+"New London County","09011","2001","All","Infant","Number","Fetal Mortality",24
+"New London County","09011","2001","All","Infant","Rate","Fetal Mortality",7.93
+"New London County","09011","2001","All","Neonatal","Number","Fetal Mortality",17
+"New London County","09011","2001","All","Neonatal","Rate","Fetal Mortality",5.61
+"New London County","09011","2001","All","Postneonatal","Number","Fetal Mortality",7
+"New London County","09011","2001","All","Postneonatal","Rate","Fetal Mortality",2.31
+"New London County","09011","2001","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2001","Black or African American","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2001","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2001","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2001","Other","Fetal","Number","Fetal Mortality",0
+"New London County","09011","2001","Other","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2001","White","Fetal","Number","Fetal Mortality",10
+"New London County","09011","2001","White","Infant","Number","Fetal Mortality",17
+"New London County","09011","2002","All","Fetal","Number","Fetal Mortality",17
+"New London County","09011","2002","All","Fetal","Rate","Fetal Mortality",5.27
+"New London County","09011","2002","All","Infant","Number","Fetal Mortality",22
+"New London County","09011","2002","All","Infant","Rate","Fetal Mortality",6.82
+"New London County","09011","2002","All","Neonatal","Number","Fetal Mortality",17
+"New London County","09011","2002","All","Neonatal","Rate","Fetal Mortality",5.27
+"New London County","09011","2002","All","Postneonatal","Number","Fetal Mortality",-9999
+"New London County","09011","2002","All","Postneonatal","Rate","Fetal Mortality",-9999
+"New London County","09011","2002","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2002","Black or African American","Infant","Number","Fetal Mortality",6
+"New London County","09011","2002","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2002","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2002","Other","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2002","Other","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2002","White","Fetal","Number","Fetal Mortality",13
+"New London County","09011","2002","White","Infant","Number","Fetal Mortality",15
+"New London County","09011","2003","All","Fetal","Number","Fetal Mortality",18
+"New London County","09011","2003","All","Fetal","Rate","Fetal Mortality",5.7
+"New London County","09011","2003","All","Infant","Number","Fetal Mortality",19
+"New London County","09011","2003","All","Infant","Rate","Fetal Mortality",6.02
+"New London County","09011","2003","All","Neonatal","Number","Fetal Mortality",12
+"New London County","09011","2003","All","Neonatal","Rate","Fetal Mortality",3.8
+"New London County","09011","2003","All","Postneonatal","Number","Fetal Mortality",7
+"New London County","09011","2003","All","Postneonatal","Rate","Fetal Mortality",2.22
+"New London County","09011","2003","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2003","Black or African American","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2003","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2003","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2003","Other","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2003","Other","Infant","Number","Fetal Mortality",0
+"New London County","09011","2003","White","Fetal","Number","Fetal Mortality",13
+"New London County","09011","2003","White","Infant","Number","Fetal Mortality",16
+"New London County","09011","2004","All","Fetal","Number","Fetal Mortality",20
+"New London County","09011","2004","All","Fetal","Rate","Fetal Mortality",6.31
+"New London County","09011","2004","All","Infant","Number","Fetal Mortality",20
+"New London County","09011","2004","All","Infant","Rate","Fetal Mortality",6.31
+"New London County","09011","2004","All","Neonatal","Number","Fetal Mortality",15
+"New London County","09011","2004","All","Neonatal","Rate","Fetal Mortality",4.73
+"New London County","09011","2004","All","Postneonatal","Number","Fetal Mortality",-9999
+"New London County","09011","2004","All","Postneonatal","Rate","Fetal Mortality",-9999
+"New London County","09011","2004","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2004","Black or African American","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2004","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2004","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2004","Other","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2004","Other","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2004","White","Fetal","Number","Fetal Mortality",17
+"New London County","09011","2004","White","Infant","Number","Fetal Mortality",13
+"New London County","09011","2005","All","Fetal","Number","Fetal Mortality",16
+"New London County","09011","2005","All","Fetal","Rate","Fetal Mortality",5.16
+"New London County","09011","2005","All","Infant","Number","Fetal Mortality",13
+"New London County","09011","2005","All","Infant","Rate","Fetal Mortality",4.19
+"New London County","09011","2005","All","Neonatal","Number","Fetal Mortality",10
+"New London County","09011","2005","All","Neonatal","Rate","Fetal Mortality",3.22
+"New London County","09011","2005","All","Postneonatal","Number","Fetal Mortality",-9999
+"New London County","09011","2005","All","Postneonatal","Rate","Fetal Mortality",-9999
+"New London County","09011","2005","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2005","Black or African American","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2005","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2005","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"New London County","09011","2005","Other","Fetal","Number","Fetal Mortality",0
+"New London County","09011","2005","Other","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2005","White","Fetal","Number","Fetal Mortality",15
+"New London County","09011","2005","White","Infant","Number","Fetal Mortality",10
+"New London County","09011","2006","All","Fetal","Number","Fetal Mortality",15
+"New London County","09011","2006","All","Fetal","Rate","Fetal Mortality",4.96
+"New London County","09011","2006","All","Infant","Number","Fetal Mortality",19
+"New London County","09011","2006","All","Infant","Rate","Fetal Mortality",6.28
+"New London County","09011","2006","All","Neonatal","Number","Fetal Mortality",12
+"New London County","09011","2006","All","Neonatal","Rate","Fetal Mortality",3.96
+"New London County","09011","2006","All","Postneonatal","Number","Fetal Mortality",7
+"New London County","09011","2006","All","Postneonatal","Rate","Fetal Mortality",2.31
+"New London County","09011","2006","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2006","Black or African American","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2006","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2006","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2006","Other","Fetal","Number","Fetal Mortality",0
+"New London County","09011","2006","Other","Infant","Number","Fetal Mortality",0
+"New London County","09011","2006","White","Fetal","Number","Fetal Mortality",12
+"New London County","09011","2006","White","Infant","Number","Fetal Mortality",14
+"New London County","09011","2007","All","Fetal","Number","Fetal Mortality",15
+"New London County","09011","2007","All","Fetal","Rate","Fetal Mortality",4.88
+"New London County","09011","2007","All","Infant","Number","Fetal Mortality",18
+"New London County","09011","2007","All","Infant","Rate","Fetal Mortality",5.86
+"New London County","09011","2007","All","Neonatal","Number","Fetal Mortality",13
+"New London County","09011","2007","All","Neonatal","Rate","Fetal Mortality",4.23
+"New London County","09011","2007","All","Postneonatal","Number","Fetal Mortality",-9999
+"New London County","09011","2007","All","Postneonatal","Rate","Fetal Mortality",-9999
+"New London County","09011","2007","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2007","Black or African American","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2007","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2007","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2007","Other","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2007","Other","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2007","White","Fetal","Number","Fetal Mortality",13
+"New London County","09011","2007","White","Infant","Number","Fetal Mortality",15
+"New London County","09011","2008","All","Fetal","Number","Fetal Mortality",18
+"New London County","09011","2008","All","Fetal","Rate","Fetal Mortality",6.02
+"New London County","09011","2008","All","Infant","Number","Fetal Mortality",19
+"New London County","09011","2008","All","Infant","Rate","Fetal Mortality",6.36
+"New London County","09011","2008","All","Neonatal","Number","Fetal Mortality",14
+"New London County","09011","2008","All","Neonatal","Rate","Fetal Mortality",4.68
+"New London County","09011","2008","All","Postneonatal","Number","Fetal Mortality",-9999
+"New London County","09011","2008","All","Postneonatal","Rate","Fetal Mortality",-9999
+"New London County","09011","2008","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2008","Black or African American","Infant","Number","Fetal Mortality",0
+"New London County","09011","2008","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2008","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2008","Other","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2008","Other","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2008","White","Fetal","Number","Fetal Mortality",15
+"New London County","09011","2008","White","Infant","Number","Fetal Mortality",17
+"New London County","09011","2009","All","Fetal","Number","Fetal Mortality",13
+"New London County","09011","2009","All","Fetal","Rate","Fetal Mortality",4.57
+"New London County","09011","2009","All","Infant","Number","Fetal Mortality",15
+"New London County","09011","2009","All","Infant","Rate","Fetal Mortality",5.28
+"New London County","09011","2009","All","Neonatal","Number","Fetal Mortality",12
+"New London County","09011","2009","All","Neonatal","Rate","Fetal Mortality",4.22
+"New London County","09011","2009","All","Postneonatal","Number","Fetal Mortality",-9999
+"New London County","09011","2009","All","Postneonatal","Rate","Fetal Mortality",-9999
+"New London County","09011","2009","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2009","Black or African American","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2009","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2009","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2009","Other","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2009","Other","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2009","White","Fetal","Number","Fetal Mortality",11
+"New London County","09011","2009","White","Infant","Number","Fetal Mortality",12
+"New London County","09011","2010","All","Fetal","Number","Fetal Mortality",11
+"New London County","09011","2010","All","Fetal","Rate","Fetal Mortality",4
+"New London County","09011","2010","All","Infant","Number","Fetal Mortality",11
+"New London County","09011","2010","All","Infant","Rate","Fetal Mortality",4
+"New London County","09011","2010","All","Neonatal","Number","Fetal Mortality",10
+"New London County","09011","2010","All","Neonatal","Rate","Fetal Mortality",3.64
+"New London County","09011","2010","All","Postneonatal","Number","Fetal Mortality",-9999
+"New London County","09011","2010","All","Postneonatal","Rate","Fetal Mortality",-9999
+"New London County","09011","2010","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2010","Black or African American","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2010","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2010","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2010","Other","Fetal","Number","Fetal Mortality",0
+"New London County","09011","2010","Other","Infant","Number","Fetal Mortality",0
+"New London County","09011","2010","White","Fetal","Number","Fetal Mortality",10
+"New London County","09011","2010","White","Infant","Number","Fetal Mortality",9
+"New London County","09011","2011","All","Fetal","Number","Fetal Mortality",12
+"New London County","09011","2011","All","Fetal","Rate","Fetal Mortality",4.25
+"New London County","09011","2011","All","Infant","Number","Fetal Mortality",15
+"New London County","09011","2011","All","Infant","Rate","Fetal Mortality",5.32
+"New London County","09011","2011","All","Neonatal","Number","Fetal Mortality",13
+"New London County","09011","2011","All","Neonatal","Rate","Fetal Mortality",4.61
+"New London County","09011","2011","All","Postneonatal","Number","Fetal Mortality",-9999
+"New London County","09011","2011","All","Postneonatal","Rate","Fetal Mortality",-9999
+"New London County","09011","2011","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2011","Black or African American","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2011","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"New London County","09011","2011","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2011","Other","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2011","Other","Infant","Number","Fetal Mortality",0
+"New London County","09011","2011","White","Fetal","Number","Fetal Mortality",9
+"New London County","09011","2011","White","Infant","Number","Fetal Mortality",10
+"New London County","09011","2012","All","Fetal","Number","Fetal Mortality",15
+"New London County","09011","2012","All","Fetal","Rate","Fetal Mortality",5.39
+"New London County","09011","2012","All","Infant","Number","Fetal Mortality",13
+"New London County","09011","2012","All","Infant","Rate","Fetal Mortality",4.67
+"New London County","09011","2012","All","Neonatal","Number","Fetal Mortality",8
+"New London County","09011","2012","All","Neonatal","Rate","Fetal Mortality",2.88
+"New London County","09011","2012","All","Postneonatal","Number","Fetal Mortality",-9999
+"New London County","09011","2012","All","Postneonatal","Rate","Fetal Mortality",-9999
+"New London County","09011","2012","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2012","Black or African American","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2012","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2012","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2012","Other","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2012","Other","Infant","Number","Fetal Mortality",0
+"New London County","09011","2012","White","Fetal","Number","Fetal Mortality",10
+"New London County","09011","2012","White","Infant","Number","Fetal Mortality",10
+"New London County","09011","2013","All","Fetal","Number","Fetal Mortality",11
+"New London County","09011","2013","All","Fetal","Rate","Fetal Mortality",4.14
+"New London County","09011","2013","All","Infant","Number","Fetal Mortality",17
+"New London County","09011","2013","All","Infant","Rate","Fetal Mortality",6.39
+"New London County","09011","2013","All","Neonatal","Number","Fetal Mortality",9
+"New London County","09011","2013","All","Neonatal","Rate","Fetal Mortality",3.38
+"New London County","09011","2013","All","Postneonatal","Number","Fetal Mortality",8
+"New London County","09011","2013","All","Postneonatal","Rate","Fetal Mortality",3.01
+"New London County","09011","2013","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2013","Black or African American","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2013","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2013","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2013","Other","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2013","Other","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2013","White","Fetal","Number","Fetal Mortality",9
+"New London County","09011","2013","White","Infant","Number","Fetal Mortality",11
+"New London County","09011","2014","All","Fetal","Number","Fetal Mortality",12
+"New London County","09011","2014","All","Fetal","Rate","Fetal Mortality",4.39
+"New London County","09011","2014","All","Infant","Number","Fetal Mortality",8
+"New London County","09011","2014","All","Infant","Rate","Fetal Mortality",2.93
+"New London County","09011","2014","All","Neonatal","Number","Fetal Mortality",8
+"New London County","09011","2014","All","Neonatal","Rate","Fetal Mortality",2.93
+"New London County","09011","2014","All","Postneonatal","Number","Fetal Mortality",0
+"New London County","09011","2014","All","Postneonatal","Rate","Fetal Mortality",0
+"New London County","09011","2014","Black or African American","Fetal","Number","Fetal Mortality",0
+"New London County","09011","2014","Black or African American","Infant","Number","Fetal Mortality",0
+"New London County","09011","2014","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"New London County","09011","2014","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2014","Other","Fetal","Number","Fetal Mortality",0
+"New London County","09011","2014","Other","Infant","Number","Fetal Mortality",-9999
+"New London County","09011","2014","White","Fetal","Number","Fetal Mortality",12
+"New London County","09011","2014","White","Infant","Number","Fetal Mortality",7
+"Tolland County","09013","1999","All","Fetal","Number","Fetal Mortality",6
+"Tolland County","09013","1999","All","Fetal","Rate","Fetal Mortality",4.02
+"Tolland County","09013","1999","All","Infant","Number","Fetal Mortality",9
+"Tolland County","09013","1999","All","Infant","Rate","Fetal Mortality",6.02
+"Tolland County","09013","1999","All","Neonatal","Number","Fetal Mortality",8
+"Tolland County","09013","1999","All","Neonatal","Rate","Fetal Mortality",5.35
+"Tolland County","09013","1999","All","Postneonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","1999","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","1999","Black or African American","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","1999","Black or African American","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","1999","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","1999","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","1999","Other","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","1999","Other","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","1999","White","Fetal","Number","Fetal Mortality",6
+"Tolland County","09013","1999","White","Infant","Number","Fetal Mortality",9
+"Tolland County","09013","2000","All","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2000","All","Fetal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2000","All","Infant","Number","Fetal Mortality",10
+"Tolland County","09013","2000","All","Infant","Rate","Fetal Mortality",6.5
+"Tolland County","09013","2000","All","Neonatal","Number","Fetal Mortality",8
+"Tolland County","09013","2000","All","Neonatal","Rate","Fetal Mortality",5.2
+"Tolland County","09013","2000","All","Postneonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2000","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2000","Black or African American","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2000","Black or African American","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2000","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2000","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2000","Other","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2000","Other","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2000","White","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2000","White","Infant","Number","Fetal Mortality",10
+"Tolland County","09013","2001","All","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2001","All","Fetal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2001","All","Infant","Number","Fetal Mortality",8
+"Tolland County","09013","2001","All","Infant","Rate","Fetal Mortality",5.46
+"Tolland County","09013","2001","All","Neonatal","Number","Fetal Mortality",6
+"Tolland County","09013","2001","All","Neonatal","Rate","Fetal Mortality",4.09
+"Tolland County","09013","2001","All","Postneonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2001","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2001","Black or African American","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2001","Black or African American","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2001","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2001","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2001","Other","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2001","Other","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2001","White","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2001","White","Infant","Number","Fetal Mortality",8
+"Tolland County","09013","2002","All","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2002","All","Fetal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2002","All","Infant","Number","Fetal Mortality",7
+"Tolland County","09013","2002","All","Infant","Rate","Fetal Mortality",4.97
+"Tolland County","09013","2002","All","Neonatal","Number","Fetal Mortality",7
+"Tolland County","09013","2002","All","Neonatal","Rate","Fetal Mortality",4.97
+"Tolland County","09013","2002","All","Postneonatal","Number","Fetal Mortality",0
+"Tolland County","09013","2002","All","Postneonatal","Rate","Fetal Mortality",0
+"Tolland County","09013","2002","Black or African American","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2002","Black or African American","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2002","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2002","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2002","Other","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2002","Other","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2002","White","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2002","White","Infant","Number","Fetal Mortality",7
+"Tolland County","09013","2003","All","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2003","All","Fetal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2003","All","Infant","Number","Fetal Mortality",7
+"Tolland County","09013","2003","All","Infant","Rate","Fetal Mortality",4.69
+"Tolland County","09013","2003","All","Neonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2003","All","Neonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2003","All","Postneonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2003","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2003","Black or African American","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2003","Black or African American","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2003","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2003","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2003","Other","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2003","Other","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2003","White","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2003","White","Infant","Number","Fetal Mortality",7
+"Tolland County","09013","2004","All","Fetal","Number","Fetal Mortality",6
+"Tolland County","09013","2004","All","Fetal","Rate","Fetal Mortality",4.37
+"Tolland County","09013","2004","All","Infant","Number","Fetal Mortality",6
+"Tolland County","09013","2004","All","Infant","Rate","Fetal Mortality",4.37
+"Tolland County","09013","2004","All","Neonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2004","All","Neonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2004","All","Postneonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2004","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2004","Black or African American","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2004","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2004","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2004","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2004","Other","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2004","Other","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2004","White","Fetal","Number","Fetal Mortality",6
+"Tolland County","09013","2004","White","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2005","All","Fetal","Number","Fetal Mortality",7
+"Tolland County","09013","2005","All","Fetal","Rate","Fetal Mortality",4.87
+"Tolland County","09013","2005","All","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2005","All","Infant","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2005","All","Neonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2005","All","Neonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2005","All","Postneonatal","Number","Fetal Mortality",0
+"Tolland County","09013","2005","All","Postneonatal","Rate","Fetal Mortality",0
+"Tolland County","09013","2005","Black or African American","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2005","Black or African American","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2005","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2005","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2005","Other","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2005","Other","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2005","White","Fetal","Number","Fetal Mortality",7
+"Tolland County","09013","2005","White","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2006","All","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2006","All","Fetal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2006","All","Infant","Number","Fetal Mortality",10
+"Tolland County","09013","2006","All","Infant","Rate","Fetal Mortality",7.22
+"Tolland County","09013","2006","All","Neonatal","Number","Fetal Mortality",10
+"Tolland County","09013","2006","All","Neonatal","Rate","Fetal Mortality",7.22
+"Tolland County","09013","2006","All","Postneonatal","Number","Fetal Mortality",0
+"Tolland County","09013","2006","All","Postneonatal","Rate","Fetal Mortality",0
+"Tolland County","09013","2006","Black or African American","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2006","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2006","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2006","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2006","Other","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2006","Other","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2006","White","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2006","White","Infant","Number","Fetal Mortality",8
+"Tolland County","09013","2007","All","Fetal","Number","Fetal Mortality",7
+"Tolland County","09013","2007","All","Fetal","Rate","Fetal Mortality",5.17
+"Tolland County","09013","2007","All","Infant","Number","Fetal Mortality",6
+"Tolland County","09013","2007","All","Infant","Rate","Fetal Mortality",4.43
+"Tolland County","09013","2007","All","Neonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2007","All","Neonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2007","All","Postneonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2007","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2007","Black or African American","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2007","Black or African American","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2007","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2007","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2007","Other","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2007","Other","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2007","White","Fetal","Number","Fetal Mortality",7
+"Tolland County","09013","2007","White","Infant","Number","Fetal Mortality",6
+"Tolland County","09013","2008","All","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2008","All","Fetal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2008","All","Infant","Number","Fetal Mortality",9
+"Tolland County","09013","2008","All","Infant","Rate","Fetal Mortality",6.86
+"Tolland County","09013","2008","All","Neonatal","Number","Fetal Mortality",6
+"Tolland County","09013","2008","All","Neonatal","Rate","Fetal Mortality",4.57
+"Tolland County","09013","2008","All","Postneonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2008","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2008","Black or African American","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2008","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2008","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2008","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2008","Other","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2008","Other","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2008","White","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2008","White","Infant","Number","Fetal Mortality",7
+"Tolland County","09013","2009","All","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2009","All","Fetal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2009","All","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2009","All","Infant","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2009","All","Neonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2009","All","Neonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2009","All","Postneonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2009","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2009","Black or African American","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2009","Black or African American","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2009","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2009","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2009","Other","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2009","Other","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2009","White","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2009","White","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2010","All","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2010","All","Fetal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2010","All","Infant","Number","Fetal Mortality",6
+"Tolland County","09013","2010","All","Infant","Rate","Fetal Mortality",4.94
+"Tolland County","09013","2010","All","Neonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2010","All","Neonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2010","All","Postneonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2010","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2010","Black or African American","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2010","Black or African American","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2010","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2010","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2010","Other","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2010","Other","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2010","White","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2010","White","Infant","Number","Fetal Mortality",6
+"Tolland County","09013","2011","All","Fetal","Number","Fetal Mortality",8
+"Tolland County","09013","2011","All","Fetal","Rate","Fetal Mortality",6.86
+"Tolland County","09013","2011","All","Infant","Number","Fetal Mortality",7
+"Tolland County","09013","2011","All","Infant","Rate","Fetal Mortality",6
+"Tolland County","09013","2011","All","Neonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2011","All","Neonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2011","All","Postneonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2011","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2011","Black or African American","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2011","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2011","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2011","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2011","Other","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2011","Other","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2011","White","Fetal","Number","Fetal Mortality",7
+"Tolland County","09013","2011","White","Infant","Number","Fetal Mortality",6
+"Tolland County","09013","2012","All","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2012","All","Fetal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2012","All","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2012","All","Infant","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2012","All","Neonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2012","All","Neonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2012","All","Postneonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2012","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2012","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2012","Black or African American","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2012","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2012","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2012","Other","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2012","Other","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2012","White","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2012","White","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2013","All","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2013","All","Fetal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2013","All","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2013","All","Infant","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2013","All","Neonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2013","All","Neonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2013","All","Postneonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2013","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2013","Black or African American","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2013","Black or African American","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2013","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2013","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2013","Other","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2013","Other","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2013","White","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2013","White","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2014","All","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2014","All","Fetal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2014","All","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2014","All","Infant","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2014","All","Neonatal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2014","All","Neonatal","Rate","Fetal Mortality",-9999
+"Tolland County","09013","2014","All","Postneonatal","Number","Fetal Mortality",0
+"Tolland County","09013","2014","All","Postneonatal","Rate","Fetal Mortality",0
+"Tolland County","09013","2014","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2014","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2014","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2014","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Tolland County","09013","2014","Other","Fetal","Number","Fetal Mortality",0
+"Tolland County","09013","2014","Other","Infant","Number","Fetal Mortality",-9999
+"Tolland County","09013","2014","White","Fetal","Number","Fetal Mortality",-9999
+"Tolland County","09013","2014","White","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","1999","All","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","1999","All","Fetal","Rate","Fetal Mortality",-9999
+"Windham County","09015","1999","All","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","1999","All","Infant","Rate","Fetal Mortality",-9999
+"Windham County","09015","1999","All","Neonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","1999","All","Neonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","1999","All","Postneonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","1999","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","1999","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","1999","Black or African American","Infant","Number","Fetal Mortality",0
+"Windham County","09015","1999","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","1999","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","1999","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","1999","Other","Infant","Number","Fetal Mortality",0
+"Windham County","09015","1999","White","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","1999","White","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2000","All","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2000","All","Fetal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2000","All","Infant","Number","Fetal Mortality",12
+"Windham County","09015","2000","All","Infant","Rate","Fetal Mortality",9.1
+"Windham County","09015","2000","All","Neonatal","Number","Fetal Mortality",10
+"Windham County","09015","2000","All","Neonatal","Rate","Fetal Mortality",7.58
+"Windham County","09015","2000","All","Postneonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2000","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2000","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2000","Black or African American","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2000","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2000","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2000","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2000","Other","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2000","White","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2000","White","Infant","Number","Fetal Mortality",11
+"Windham County","09015","2001","All","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2001","All","Fetal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2001","All","Infant","Number","Fetal Mortality",9
+"Windham County","09015","2001","All","Infant","Rate","Fetal Mortality",6.81
+"Windham County","09015","2001","All","Neonatal","Number","Fetal Mortality",7
+"Windham County","09015","2001","All","Neonatal","Rate","Fetal Mortality",5.3
+"Windham County","09015","2001","All","Postneonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2001","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2001","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2001","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2001","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2001","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2001","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2001","Other","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2001","White","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2001","White","Infant","Number","Fetal Mortality",6
+"Windham County","09015","2002","All","Fetal","Number","Fetal Mortality",8
+"Windham County","09015","2002","All","Fetal","Rate","Fetal Mortality",6.38
+"Windham County","09015","2002","All","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2002","All","Infant","Rate","Fetal Mortality",-9999
+"Windham County","09015","2002","All","Neonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2002","All","Neonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2002","All","Postneonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2002","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2002","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2002","Black or African American","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2002","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2002","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2002","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2002","Other","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2002","White","Fetal","Number","Fetal Mortality",8
+"Windham County","09015","2002","White","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2003","All","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2003","All","Fetal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2003","All","Infant","Number","Fetal Mortality",7
+"Windham County","09015","2003","All","Infant","Rate","Fetal Mortality",5.13
+"Windham County","09015","2003","All","Neonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2003","All","Neonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2003","All","Postneonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2003","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2003","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2003","Black or African American","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2003","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2003","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2003","Other","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2003","Other","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2003","White","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2003","White","Infant","Number","Fetal Mortality",7
+"Windham County","09015","2004","All","Fetal","Number","Fetal Mortality",6
+"Windham County","09015","2004","All","Fetal","Rate","Fetal Mortality",4.67
+"Windham County","09015","2004","All","Infant","Number","Fetal Mortality",9
+"Windham County","09015","2004","All","Infant","Rate","Fetal Mortality",7.01
+"Windham County","09015","2004","All","Neonatal","Number","Fetal Mortality",8
+"Windham County","09015","2004","All","Neonatal","Rate","Fetal Mortality",6.23
+"Windham County","09015","2004","All","Postneonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2004","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2004","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2004","Black or African American","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2004","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2004","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2004","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2004","Other","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2004","White","Fetal","Number","Fetal Mortality",6
+"Windham County","09015","2004","White","Infant","Number","Fetal Mortality",7
+"Windham County","09015","2005","All","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2005","All","Fetal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2005","All","Infant","Number","Fetal Mortality",8
+"Windham County","09015","2005","All","Infant","Rate","Fetal Mortality",6.1
+"Windham County","09015","2005","All","Neonatal","Number","Fetal Mortality",6
+"Windham County","09015","2005","All","Neonatal","Rate","Fetal Mortality",4.57
+"Windham County","09015","2005","All","Postneonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2005","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2005","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2005","Black or African American","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2005","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2005","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2005","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2005","Other","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2005","White","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2005","White","Infant","Number","Fetal Mortality",8
+"Windham County","09015","2006","All","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2006","All","Fetal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2006","All","Infant","Number","Fetal Mortality",11
+"Windham County","09015","2006","All","Infant","Rate","Fetal Mortality",8.37
+"Windham County","09015","2006","All","Neonatal","Number","Fetal Mortality",9
+"Windham County","09015","2006","All","Neonatal","Rate","Fetal Mortality",6.84
+"Windham County","09015","2006","All","Postneonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2006","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2006","Black or African American","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2006","Black or African American","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2006","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2006","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2006","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2006","Other","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2006","White","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2006","White","Infant","Number","Fetal Mortality",10
+"Windham County","09015","2007","All","Fetal","Number","Fetal Mortality",8
+"Windham County","09015","2007","All","Fetal","Rate","Fetal Mortality",6.07
+"Windham County","09015","2007","All","Infant","Number","Fetal Mortality",9
+"Windham County","09015","2007","All","Infant","Rate","Fetal Mortality",6.83
+"Windham County","09015","2007","All","Neonatal","Number","Fetal Mortality",7
+"Windham County","09015","2007","All","Neonatal","Rate","Fetal Mortality",5.32
+"Windham County","09015","2007","All","Postneonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2007","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2007","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2007","Black or African American","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2007","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2007","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2007","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2007","Other","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2007","White","Fetal","Number","Fetal Mortality",8
+"Windham County","09015","2007","White","Infant","Number","Fetal Mortality",8
+"Windham County","09015","2008","All","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2008","All","Fetal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2008","All","Infant","Number","Fetal Mortality",6
+"Windham County","09015","2008","All","Infant","Rate","Fetal Mortality",4.6
+"Windham County","09015","2008","All","Neonatal","Number","Fetal Mortality",6
+"Windham County","09015","2008","All","Neonatal","Rate","Fetal Mortality",4.6
+"Windham County","09015","2008","All","Postneonatal","Number","Fetal Mortality",0
+"Windham County","09015","2008","All","Postneonatal","Rate","Fetal Mortality",0
+"Windham County","09015","2008","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2008","Black or African American","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2008","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2008","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2008","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2008","Other","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2008","White","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2008","White","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2009","All","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2009","All","Fetal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2009","All","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2009","All","Infant","Rate","Fetal Mortality",-9999
+"Windham County","09015","2009","All","Neonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2009","All","Neonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2009","All","Postneonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2009","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2009","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2009","Black or African American","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2009","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2009","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2009","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2009","Other","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2009","White","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2009","White","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2010","All","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2010","All","Fetal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2010","All","Infant","Number","Fetal Mortality",6
+"Windham County","09015","2010","All","Infant","Rate","Fetal Mortality",5.01
+"Windham County","09015","2010","All","Neonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2010","All","Neonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2010","All","Postneonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2010","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2010","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2010","Black or African American","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2010","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2010","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2010","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2010","Other","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2010","White","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2010","White","Infant","Number","Fetal Mortality",6
+"Windham County","09015","2011","All","Fetal","Number","Fetal Mortality",6
+"Windham County","09015","2011","All","Fetal","Rate","Fetal Mortality",5.08
+"Windham County","09015","2011","All","Infant","Number","Fetal Mortality",7
+"Windham County","09015","2011","All","Infant","Rate","Fetal Mortality",5.92
+"Windham County","09015","2011","All","Neonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2011","All","Neonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2011","All","Postneonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2011","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2011","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2011","Black or African American","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2011","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2011","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2011","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2011","Other","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2011","White","Fetal","Number","Fetal Mortality",6
+"Windham County","09015","2011","White","Infant","Number","Fetal Mortality",6
+"Windham County","09015","2012","All","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2012","All","Fetal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2012","All","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2012","All","Infant","Rate","Fetal Mortality",-9999
+"Windham County","09015","2012","All","Neonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2012","All","Neonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2012","All","Postneonatal","Number","Fetal Mortality",0
+"Windham County","09015","2012","All","Postneonatal","Rate","Fetal Mortality",0
+"Windham County","09015","2012","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2012","Black or African American","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2012","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2012","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2012","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2012","Other","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2012","White","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2012","White","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2013","All","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2013","All","Fetal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2013","All","Infant","Number","Fetal Mortality",8
+"Windham County","09015","2013","All","Infant","Rate","Fetal Mortality",6.7
+"Windham County","09015","2013","All","Neonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2013","All","Neonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2013","All","Postneonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2013","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2013","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2013","Black or African American","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2013","Hispanic or Latino","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2013","Hispanic or Latino","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2013","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2013","Other","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2013","White","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2013","White","Infant","Number","Fetal Mortality",8
+"Windham County","09015","2014","All","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2014","All","Fetal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2014","All","Infant","Number","Fetal Mortality",-9999
+"Windham County","09015","2014","All","Infant","Rate","Fetal Mortality",-9999
+"Windham County","09015","2014","All","Neonatal","Number","Fetal Mortality",0
+"Windham County","09015","2014","All","Neonatal","Rate","Fetal Mortality",0
+"Windham County","09015","2014","All","Postneonatal","Number","Fetal Mortality",-9999
+"Windham County","09015","2014","All","Postneonatal","Rate","Fetal Mortality",-9999
+"Windham County","09015","2014","Black or African American","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2014","Black or African American","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2014","Hispanic or Latino","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2014","Hispanic or Latino","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2014","Other","Fetal","Number","Fetal Mortality",0
+"Windham County","09015","2014","Other","Infant","Number","Fetal Mortality",0
+"Windham County","09015","2014","White","Fetal","Number","Fetal Mortality",-9999
+"Windham County","09015","2014","White","Infant","Number","Fetal Mortality",-9999
